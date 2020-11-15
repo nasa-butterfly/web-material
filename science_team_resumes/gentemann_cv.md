@@ -1,8 +1,9 @@
+![image](./../images/cgentemann.jpg)
 # Dr. Chelle L. Gentemann (she/her)
 ## Senior Scientist, [Farallon Institute](https://faralloninstitute.org)
 ## Senior Scientist, [Earth & Space Research](https://esr.org) 
 [email](mailto:cgentemann@faralloninstitute.org)
-[twitter](https://twitter.com/chellegentemann)
+![image](https://github.com/Automattic/social-logos/tree/master/pdf/twitter.pdf)[twitter](https://twitter.com/chellegentemann)
 [github](https://github.com/cgentemann)
 
 Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud computing, open source software development, air-sea interactions, and upper ocean physical processes.  For over 20 years she has worked on the calibration, radiative transfer modelling, algorithm development, validation, and operational near-real-time distribution of multiple satellite passive microwave sensors data. She also led 3 in situ field campaigns, 4 large academic, governmental, commercial partnerships, and has served on and chaired international and national science teams, working groups, and committees.    
@@ -61,7 +62,7 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 Gentemann, C.L.; et al. FluxSat: Measuring the Ocean–Atmosphere Turbulent Exchange of Heat and Moisture from Space. Remote Sensing 2020, 12, 1796, doi:10.3390/rs12111796.
 1. Gentemann, C.L., et al., “Saildrone: adaptively sampling the marine environment”, 2020, Bull. Amer. Meteor. Soc., 101, E744–E762, https://doi.org/10.1175/BAMS-D-19-0015.1.
 1. Alerskans, E., J. L. Høyer, C. L. Gentemann, et al. (2020), Construction of a climate data record of sea surface temperature from passive microwave measurements, Remote Sensing of Environment, 236, 111485, doi:https://doi.org/10.1016/j.rse.2019.111485. 
-- Scott, J. P., S. Crooke, I. Cetini?, C. E. Del Castillo, and C. L. Gentemann (2020), "Correcting non-photochemical quenching of Saildrone chlorophyll-a fluorescence for evaluation of satellite ocean color retrievals," Opt. Express 28(3), 4274-4285, https://doi.org/10.1364/OE.382029.
+1. Scott, J. P., S. Crooke, I. Cetini?, C. E. Del Castillo, and C. L. Gentemann (2020), "Correcting non-photochemical quenching of Saildrone chlorophyll-a fluorescence for evaluation of satellite ocean color retrievals," Opt. Express 28(3), 4274-4285, https://doi.org/10.1364/OE.382029.
 1. Cronin M. F. and C. L. Gentemann, (2019) “Ocean Surface Holds the Key to Understanding Our Climate”, Scientia Earth and Environment. https://doi.org/10.33548/SCIENTIA435.
 Vazquez-Cuervo, J.; Gomez-Valdes, J.; Bouali, M.; Miranda, L.E.; Van der Stocken, T.; Tang, W.; Gentemann, C. Using Saildrones to Validate Satellite-Derived Sea Surface Salinity and Sea Surface Temperature along the California/Baja Coast (2019), Remote Sens., 11, 1964. 
 1. Merchant, C. J., P. J. Minnett, H. Beggs, G. K. Corlett, C. Gentemann, et al. (2019), 2 - Global Sea Surface Temperature, in Taking the Temperature of the Earth, edited by G. C. Hulley and D. Ghent, pp. 5-55, Elsevier, doi:https://doi.org/10.1016/B978-0-12-814458-9.00002-2. 
