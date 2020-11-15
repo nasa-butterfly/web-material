@@ -50,7 +50,7 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 - IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, Denver, CO.  Student paper competition finalist.
 - American Meteorological Society 2005 13th Conference on Satellite Meteorology and Oceanography, Norfolk, VA.  Student poster competition: 3rd prize.
 
-## Publications (57 published, 8 in process):
+## Publications (49 published, 8 in process):
 1. Stevens, B., et al. “EUREC4A”, in final prep.
 1. Chiodi, A. M., C. Zhang, E. D. Cokelet, Q. Yang, C. W. Mordy, C. Gentemann, J. Cross, N. Lawrence-Slavas, C. Meinig, M. Steele, D. E. Harrison, P. Stabeno, H. Tabisola, D. Zhang, E. Burger, and K. O’Brien, Exploring the Alaskan Arctic Seasonal Ice Zone with Saildrones, Frontiers in Marine Science, in final prep..
 1. Gentemann, C.L., C. Holdgraf, J. Colliander, R. Abernathey, D. Crichton, “A new era of open, cloudy, science,” in final prep, proposal accepted by BAMS.
@@ -59,17 +59,17 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 1. Ashlock, L., M. García-Reyes, S. Batten, C. Gentemann, W. Sydeman, “Temperature driven patterns of copepod presence and abundance in the Northeast Pacific,” submitted.
 1. Hoover, B., M. García-Reyes, S. Batten, C. L. Gentemann, W. Sydeman, “Spatio-Temporal Persistence of Zooplankton Communities in the Eastern North Pacific,” submitted.
 1. Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. J. Hamman, N. Henderson, C. Lepore, T. A. McCaie, N.H. Robinson, R.P. Signell, “Cloud-Native Repositories for Big Scientific Data,” submitted IEEE.
-Gentemann, C.L.; et al. FluxSat: Measuring the Ocean–Atmosphere Turbulent Exchange of Heat and Moisture from Space. Remote Sensing 2020, 12, 1796, doi:10.3390/rs12111796.
+1. Gentemann, C.L.; et al. FluxSat: Measuring the Ocean–Atmosphere Turbulent Exchange of Heat and Moisture from Space. Remote Sensing 2020, 12, 1796, doi:10.3390/rs12111796.
 1. Gentemann, C.L., et al., “Saildrone: adaptively sampling the marine environment”, 2020, Bull. Amer. Meteor. Soc., 101, E744–E762, https://doi.org/10.1175/BAMS-D-19-0015.1.
 1. Alerskans, E., J. L. Høyer, C. L. Gentemann, et al. (2020), Construction of a climate data record of sea surface temperature from passive microwave measurements, Remote Sensing of Environment, 236, 111485, doi:https://doi.org/10.1016/j.rse.2019.111485. 
 1. Scott, J. P., S. Crooke, I. Cetini?, C. E. Del Castillo, and C. L. Gentemann (2020), "Correcting non-photochemical quenching of Saildrone chlorophyll-a fluorescence for evaluation of satellite ocean color retrievals," Opt. Express 28(3), 4274-4285, https://doi.org/10.1364/OE.382029.
 1. Cronin M. F. and C. L. Gentemann, (2019) “Ocean Surface Holds the Key to Understanding Our Climate”, Scientia Earth and Environment. https://doi.org/10.33548/SCIENTIA435.
-Vazquez-Cuervo, J.; Gomez-Valdes, J.; Bouali, M.; Miranda, L.E.; Van der Stocken, T.; Tang, W.; Gentemann, C. Using Saildrones to Validate Satellite-Derived Sea Surface Salinity and Sea Surface Temperature along the California/Baja Coast (2019), Remote Sens., 11, 1964. 
+1. Vazquez-Cuervo, J.; Gomez-Valdes, J.; Bouali, M.; Miranda, L.E.; Van der Stocken, T.; Tang, W.; Gentemann, C. Using Saildrones to Validate Satellite-Derived Sea Surface Salinity and Sea Surface Temperature along the California/Baja Coast (2019), Remote Sens., 11, 1964. 
 1. Merchant, C. J., P. J. Minnett, H. Beggs, G. K. Corlett, C. Gentemann, et al. (2019), 2 - Global Sea Surface Temperature, in Taking the Temperature of the Earth, edited by G. C. Hulley and D. Ghent, pp. 5-55, Elsevier, doi:https://doi.org/10.1016/B978-0-12-814458-9.00002-2. 
 1. O’Carroll, A. G., et al. (2019), Observational Needs of Sea Surface Temperature, Frontiers in Marine Science, 6(420), doi:10.3389/fmars.2019.00420. 
-Cronin, M., C.L. Gentemann, et al., Air-Sea Fluxes With a Focus on Heat and Momentum, Frontiers in Marine Science, 6(430), doi:10.3389/fmars.2019.00430.
+1. Cronin, M., C.L. Gentemann, et al., Air-Sea Fluxes With a Focus on Heat and Momentum, Frontiers in Marine Science, 6(430), doi:10.3389/fmars.2019.00430.
 1. Minnett, P. J., et al. (2019), Half a century of satellite remote sensing of sea-surface temperature, Remote Sensing of Environment, 233, 111366, doi:10.1016/j.rse.2019.111366.
-Boussidi, B., P. Cornillon, G. Puggioni, and C. Gentemann (2019), Determining the AMSR-E SST Footprint from Co-Located MODIS SSTs, Remote Sensing, 11(6), 715, doi:10.3390/rs11060715.
+1. Boussidi, B., P. Cornillon, G. Puggioni, and C. Gentemann (2019), Determining the AMSR-E SST Footprint from Co-Located MODIS SSTs, Remote Sensing, 11(6), 715, doi:10.3390/rs11060715.
 1. Luo, B., P.J. Minnett, C. L. Gentemann, G. Szczodrak, (2019) Improving satellite retrieved night-time infrared sea surface temperatures in aerosol contaminated regions, Rem. Sens. of Environ., Vol. 223, doi: 10.1016/j.rse.2019.01.009.
 1. Gentemann, C. L., & Akella, S. (2018). Evaluation of NASA GEOS?ADAS modeled diurnal warming through comparisons to SEVIRI and AMSR2 SST observations. J. Geophys. Res. Oceans, 123, 1364–1375. https://doi.org/10.1002/2017JC013186.
 1. National Academies of Sciences, Engineering, and Medicine (2018) Open Source Software Policy Options for NASA Earth and Space Sciences. Washington, DC: The National Academies Press., doi: 10.17226/25217. 
