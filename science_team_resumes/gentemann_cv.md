@@ -2,11 +2,11 @@
 # Dr. Chelle L. Gentemann (she/her)
 ## Senior Scientist, [Farallon Institute](https://faralloninstitute.org)
 ## Senior Scientist, [Earth & Space Research](https://esr.org) 
-![image](./../images/gmail.jpg)[]
+![image](./../images/gmail.png)[]
 (mailto:cgentemann@faralloninstitute.org)
-![image](./../images/twitter.jpg)
+![image](./../images/twitter.png)
 [](https://twitter.com/chellegentemann)
-![image](./../images/twitter.jpg)[](https://github.com/cgentemann)
+![image](./../images/twitter.png)[](https://github.com/cgentemann)
 
 Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud computing, open source software development, air-sea interactions, and upper ocean physical processes.  For over 20 years she has worked on the calibration, radiative transfer modelling, algorithm development, validation, and operational near-real-time distribution of multiple satellite passive microwave sensors data. She also led 3 in situ field campaigns, 4 large academic, governmental, commercial partnerships, and has served on and chaired international and national science teams, working groups, and committees.    
 
