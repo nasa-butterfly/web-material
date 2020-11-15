@@ -2,8 +2,7 @@
 # Dr. Chelle L. Gentemann (she/her)
 ## Senior Scientist, [Farallon Institute](https://faralloninstitute.org)
 ## Senior Scientist, [Earth & Space Research](https://esr.org) 
-![image](./../images/gmail.png)<!-- .element height="10%" width="10%" -->[]
-(mailto:cgentemann@faralloninstitute.org)
+[<img src="./../images/gmail.png" width="10%" height="10%">](mailto:cgentemann@faralloninstitute.org)
 ![image](./../images/twitter.png))<!-- .element height="10%" width="10%" -->
 [](https://twitter.com/chellegentemann)
 ![image](./../images/github.png))<!-- .element height="10%" width="10%" -->[](https://github.com/cgentemann)
@@ -11,11 +10,11 @@
 Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud computing, open source software development, air-sea interactions, and upper ocean physical processes.  For over 20 years she has worked on the calibration, radiative transfer modelling, algorithm development, validation, and operational near-real-time distribution of multiple satellite passive microwave sensors data. She also led 3 in situ field campaigns, 4 large academic, governmental, commercial partnerships, and has served on and chaired international and national science teams, working groups, and committees.    
 
 ## Experience:
-- 2/2020 ñ present: Farallon Institute, Senior Scientist.  
-- 3/2016 ñ present: Earth & Space Research, Senior Scientist.  
+- 2/2020 ‚Äì present: Farallon Institute, Senior Scientist.  
+- 3/2016 ‚Äì present: Earth & Space Research, Senior Scientist.  
 - 2017 - present: University of Washington, Applied Physics Laboratory, Affiliate
 - 2017 - 2018: NASA Jet Propulsion Laboratory, Visiting Scholar
-- 2/1998 ñ 10/2015: Remote Sensing Systems, Scientist ñ 2012, -Senior Principal Scientist -2015.  
+- 2/1998 ‚Äì 10/2015: Remote Sensing Systems, Scientist ‚Äì 2012, -Senior Principal Scientist -2015.  
 
 ## Education:
 - 2003 - 2007 Ph.D. Meteorology and Physical Oceanography, University of Miami
@@ -24,28 +23,28 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 
 ## Science Teams, Working Groups, Organizing Committees:
 - National Academies of Sciences, Engineering, and Medicine
-    - Standing Committee on Earth Science & Applications from Space (CESAS) (2012 ñ 2018; Co-Chair 2018 - 2020)  
+    - Standing Committee on Earth Science & Applications from Space (CESAS) (2012 ‚Äì 2018; Co-Chair 2018 - 2020)  
     - Committee on Best Practices for a Future Open Code Policy for NASA Space Studies (10/2017-8/2018; Co-Chair) [report]()
-    - Intelligence Science and Technology Experts Group (ISTEG) (2015 ñ present)
-    - Committee on a Framework for Analyzing the Needs for Continuity of NASA-Sustained Remote Sensing Observations of the Earth from Space (10/2013 ñ 6/2015)
-- Pangeo Steering Council (2020 ñ present)
-- Associate Editor of Earth and Space Science (2020 ñ present)
-- US Clivar Working Group: Uncertainty Quantification (2020 ñ present)
-- Group for high resolution SST (GHRSST) Science Team and Advisory Council (2001 ñ present; Chair of Advisory Council 2016-2017)
-- NOAA Science Advisory Board (SAB): Data Access and Archiving Requirements Working Group (DAARWG) (2013 ñ 2018; Chair 2018 - 2020)
-- AGU Falkenberg Award Committee (2014 ñ 2019; Chair 2016 ñ 2019)
-- NASA PO.DAAC Early Cloud Adopters Program (2019 ñ present)
+    - Intelligence Science and Technology Experts Group (ISTEG) (2015 ‚Äì present)
+    - Committee on a Framework for Analyzing the Needs for Continuity of NASA-Sustained Remote Sensing Observations of the Earth from Space (10/2013 ‚Äì 6/2015)
+- Pangeo Steering Council (2020 ‚Äì present)
+- Associate Editor of Earth and Space Science (2020 ‚Äì present)
+- US Clivar Working Group: Uncertainty Quantification (2020 ‚Äì present)
+- Group for high resolution SST (GHRSST) Science Team and Advisory Council (2001 ‚Äì present; Chair of Advisory Council 2016-2017)
+- NOAA Science Advisory Board (SAB): Data Access and Archiving Requirements Working Group (DAARWG) (2013 ‚Äì 2018; Chair 2018 - 2020)
+- AGU Falkenberg Award Committee (2014 ‚Äì 2019; Chair 2016 ‚Äì 2019)
+- NASA PO.DAAC Early Cloud Adopters Program (2019 ‚Äì present)
 - JAXA AMSR3 Science Team (2019 - present)
 - NASA GHRC User Working Group (2014-2015; Chair 2014-2015)
 - NASA PO.DAAC User Working Group (2006-2013; Chair 2011-2013)
-- JAXA GCOM-W AMSR2 Science Team (2009 ñ 2016)
+- JAXA GCOM-W AMSR2 Science Team (2009 ‚Äì 2016)
 - NASA Sea Surface Temperature Science Team (2010-present)
 - MIT Educational Council (1998-present)
 - NASA Satellite Ocean Atlas Team (1998-2001)
 
 ## Awards:
-- American Geophysical Union 2013 Charles S. Falkenberg Award.  The award is for a ìscientist under 45 years of age who has contributed to the quality of life, economic opportunities, and stewardship of the planet through the use of Earth science information and to the public awareness of the importance of understanding our planet.î
-- National Oceanographic Partnership Program 2008 Excellence in Partnering Award.  C.Gentemann was the PI on this project.  The award is ìpresented annually to research teams that best demonstrate the partnerships objectives of NOPP, recognizing the projectís commitment to partnering, the success of the partnership effort, and the impact of the partnership on oceanography.î 
+- American Geophysical Union 2013 Charles S. Falkenberg Award.  The award is for a ‚Äúscientist under 45 years of age who has contributed to the quality of life, economic opportunities, and stewardship of the planet through the use of Earth science information and to the public awareness of the importance of understanding our planet.‚Äù
+- National Oceanographic Partnership Program 2008 Excellence in Partnering Award.  C.Gentemann was the PI on this project.  The award is ‚Äúpresented annually to research teams that best demonstrate the partnerships objectives of NOPP, recognizing the project‚Äôs commitment to partnering, the success of the partnership effort, and the impact of the partnership on oceanography.‚Äù 
 - NASA Group Achievement Award 2001 to the Satellite Ocean Atlas Team, for outstanding achievement in utilization of multiple observations from space for the study of the global oceans.  C. Gentemann was a member of the team.
 - AGU 2007 Joint Assembly, Acapulco, Mexico.  Outstanding student presentation award.
 - AGU 2006 Joint Assembly, Baltimore, MD.  Outstanding student paper award.
@@ -53,71 +52,71 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 - American Meteorological Society 2005 13th Conference on Satellite Meteorology and Oceanography, Norfolk, VA.  Student poster competition: 3rd prize.
 
 ## Publications (57 published, 8 in process):
-1. Stevens, B., et al. ìEUREC4Aî, in final prep.
-1. Chiodi, A. M., C. Zhang, E. D. Cokelet, Q. Yang, C. W. Mordy, C. Gentemann, J. Cross, N. Lawrence-Slavas, C. Meinig, M. Steele, D. E. Harrison, P. Stabeno, H. Tabisola, D. Zhang, E. Burger, and K. OíBrien, Exploring the Alaskan Arctic Seasonal Ice Zone with Saildrones, Frontiers in Marine Science, in final prep..
-1. Gentemann, C.L., C. Holdgraf, J. Colliander, R. Abernathey, D. Crichton, ìA new era of open, cloudy, science,î in final prep, proposal accepted by BAMS.
-1. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, îEvaluation of Operational Forecasts at Alaskan Arctic Sea Surface Using in situ Observations from Saildrones,î in final prep.
-1. Vazquez-Cuervo, J., C.L. Gentemann, et al. ìValidation of Sea Surface Salinity in the Bering Straits using Saildrone, SMAP, and Modelsî, in prep.
-1. Ashlock, L., M. GarcÌa-Reyes, S. Batten, C. Gentemann, W. Sydeman, ìTemperature driven patterns of copepod presence and abundance in the Northeast Pacific,î submitted.
-1. Hoover, B., M. GarcÌa-Reyes, S. Batten, C. L. Gentemann, W. Sydeman, ìSpatio-Temporal Persistence of Zooplankton Communities in the Eastern North Pacific,î submitted.
-1. Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. J. Hamman, N. Henderson, C. Lepore, T. A. McCaie, N.H. Robinson, R.P. Signell, ìCloud-Native Repositories for Big Scientific Data,î submitted IEEE.
-Gentemann, C.L.; et al. FluxSat: Measuring the OceanñAtmosphere Turbulent Exchange of Heat and Moisture from Space. Remote Sensing 2020, 12, 1796, doi:10.3390/rs12111796.
-1. Gentemann, C.L., et al., ìSaildrone: adaptively sampling the marine environmentî, 2020, Bull. Amer. Meteor. Soc., 101, E744ñE762, https://doi.org/10.1175/BAMS-D-19-0015.1.
-1. Alerskans, E., J. L. H¯yer, C. L. Gentemann, et al. (2020), Construction of a climate data record of sea surface temperature from passive microwave measurements, Remote Sensing of Environment, 236, 111485, doi:https://doi.org/10.1016/j.rse.2019.111485. 
+1. Stevens, B., et al. ‚ÄúEUREC4A‚Äù, in final prep.
+1. Chiodi, A. M., C. Zhang, E. D. Cokelet, Q. Yang, C. W. Mordy, C. Gentemann, J. Cross, N. Lawrence-Slavas, C. Meinig, M. Steele, D. E. Harrison, P. Stabeno, H. Tabisola, D. Zhang, E. Burger, and K. O‚ÄôBrien, Exploring the Alaskan Arctic Seasonal Ice Zone with Saildrones, Frontiers in Marine Science, in final prep..
+1. Gentemann, C.L., C. Holdgraf, J. Colliander, R. Abernathey, D. Crichton, ‚ÄúA new era of open, cloudy, science,‚Äù in final prep, proposal accepted by BAMS.
+1. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, ‚ÄùEvaluation of Operational Forecasts at Alaskan Arctic Sea Surface Using in situ Observations from Saildrones,‚Äù in final prep.
+1. Vazquez-Cuervo, J., C.L. Gentemann, et al. ‚ÄúValidation of Sea Surface Salinity in the Bering Straits using Saildrone, SMAP, and Models‚Äù, in prep.
+1. Ashlock, L., M. Garc√≠a-Reyes, S. Batten, C. Gentemann, W. Sydeman, ‚ÄúTemperature driven patterns of copepod presence and abundance in the Northeast Pacific,‚Äù submitted.
+1. Hoover, B., M. Garc√≠a-Reyes, S. Batten, C. L. Gentemann, W. Sydeman, ‚ÄúSpatio-Temporal Persistence of Zooplankton Communities in the Eastern North Pacific,‚Äù submitted.
+1. Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. J. Hamman, N. Henderson, C. Lepore, T. A. McCaie, N.H. Robinson, R.P. Signell, ‚ÄúCloud-Native Repositories for Big Scientific Data,‚Äù submitted IEEE.
+Gentemann, C.L.; et al. FluxSat: Measuring the Ocean‚ÄìAtmosphere Turbulent Exchange of Heat and Moisture from Space. Remote Sensing 2020, 12, 1796, doi:10.3390/rs12111796.
+1. Gentemann, C.L., et al., ‚ÄúSaildrone: adaptively sampling the marine environment‚Äù, 2020, Bull. Amer. Meteor. Soc., 101, E744‚ÄìE762, https://doi.org/10.1175/BAMS-D-19-0015.1.
+1. Alerskans, E., J. L. H√∏yer, C. L. Gentemann, et al. (2020), Construction of a climate data record of sea surface temperature from passive microwave measurements, Remote Sensing of Environment, 236, 111485, doi:https://doi.org/10.1016/j.rse.2019.111485. 
 1. Scott, J. P., S. Crooke, I. Cetini?, C. E. Del Castillo, and C. L. Gentemann (2020), "Correcting non-photochemical quenching of Saildrone chlorophyll-a fluorescence for evaluation of satellite ocean color retrievals," Opt. Express 28(3), 4274-4285, https://doi.org/10.1364/OE.382029.
-1. Cronin M. F. and C. L. Gentemann, (2019) ìOcean Surface Holds the Key to Understanding Our Climateî, Scientia Earth and Environment. https://doi.org/10.33548/SCIENTIA435.
+1. Cronin M. F. and C. L. Gentemann, (2019) ‚ÄúOcean Surface Holds the Key to Understanding Our Climate‚Äù, Scientia Earth and Environment. https://doi.org/10.33548/SCIENTIA435.
 Vazquez-Cuervo, J.; Gomez-Valdes, J.; Bouali, M.; Miranda, L.E.; Van der Stocken, T.; Tang, W.; Gentemann, C. Using Saildrones to Validate Satellite-Derived Sea Surface Salinity and Sea Surface Temperature along the California/Baja Coast (2019), Remote Sens., 11, 1964. 
 1. Merchant, C. J., P. J. Minnett, H. Beggs, G. K. Corlett, C. Gentemann, et al. (2019), 2 - Global Sea Surface Temperature, in Taking the Temperature of the Earth, edited by G. C. Hulley and D. Ghent, pp. 5-55, Elsevier, doi:https://doi.org/10.1016/B978-0-12-814458-9.00002-2. 
-1. OíCarroll, A. G., et al. (2019), Observational Needs of Sea Surface Temperature, Frontiers in Marine Science, 6(420), doi:10.3389/fmars.2019.00420. 
+1. O‚ÄôCarroll, A. G., et al. (2019), Observational Needs of Sea Surface Temperature, Frontiers in Marine Science, 6(420), doi:10.3389/fmars.2019.00420. 
 Cronin, M., C.L. Gentemann, et al., Air-Sea Fluxes With a Focus on Heat and Momentum, Frontiers in Marine Science, 6(430), doi:10.3389/fmars.2019.00430.
 1. Minnett, P. J., et al. (2019), Half a century of satellite remote sensing of sea-surface temperature, Remote Sensing of Environment, 233, 111366, doi:10.1016/j.rse.2019.111366.
 Boussidi, B., P. Cornillon, G. Puggioni, and C. Gentemann (2019), Determining the AMSR-E SST Footprint from Co-Located MODIS SSTs, Remote Sensing, 11(6), 715, doi:10.3390/rs11060715.
 1. Luo, B., P.J. Minnett, C. L. Gentemann, G. Szczodrak, (2019) Improving satellite retrieved night-time infrared sea surface temperatures in aerosol contaminated regions, Rem. Sens. of Environ., Vol. 223, doi: 10.1016/j.rse.2019.01.009.
-1. Gentemann, C. L., & Akella, S. (2018). Evaluation of NASA GEOS?ADAS modeled diurnal warming through comparisons to SEVIRI and AMSR2 SST observations. J. Geophys. Res. Oceans, 123, 1364ñ1375. https://doi.org/10.1002/2017JC013186.
+1. Gentemann, C. L., & Akella, S. (2018). Evaluation of NASA GEOS?ADAS modeled diurnal warming through comparisons to SEVIRI and AMSR2 SST observations. J. Geophys. Res. Oceans, 123, 1364‚Äì1375. https://doi.org/10.1002/2017JC013186.
 1. National Academies of Sciences, Engineering, and Medicine (2018) Open Source Software Policy Options for NASA Earth and Space Sciences. Washington, DC: The National Academies Press., doi: 10.17226/25217. 
 1. Lee, T., and C. L. Gentemann (2018), Satellite SST and SSS Observations and Their Role to Constrain Ocean Models, in New Frontiers in Operational Oceanography, edited by E. P. Chassignet, CreateSpace Independent Publishing Platform, Scotts Valley, CA, pp. 812.
 1. Zhang, H., Beggs, H., Merchant, C. J., Wang, X. H., Majewski, L., Kiss, A. E., et al. (2018). Comparison of SST diurnal variation models over the Tropical Warm Pool region. J. Geophys. Res. Oceans, 123, 3467?3488. https://doi.org/10.1029/2017JC013517. 
-1. Nielsen-Englyst, P., J. L. H¯yer, L. Toudal Pedersen, C. L. Gentemann, E. Alerskans, T. Block, and C. Donlon (2018), Optimal Estimation of Sea Surface Temperature from AMSR-E, Remote Sensing, 10(2), 229, doi:10.3390/rs10020229. 
-1. Gentemann, C. L., M. R. Fewings, and M. GarcÌa-Reyes (2016), ìSatellite sea surface temperatures along the West Coast of the United States during the 2014ñ2016 northeast Pacific marine heat waveî, Geophys. Res. Lett., 43, doi:10.1002/2016GL071039.
+1. Nielsen-Englyst, P., J. L. H√∏yer, L. Toudal Pedersen, C. L. Gentemann, E. Alerskans, T. Block, and C. Donlon (2018), Optimal Estimation of Sea Surface Temperature from AMSR-E, Remote Sensing, 10(2), 229, doi:10.3390/rs10020229. 
+1. Gentemann, C. L., M. R. Fewings, and M. Garc√≠a-Reyes (2016), ‚ÄúSatellite sea surface temperatures along the West Coast of the United States during the 2014‚Äì2016 northeast Pacific marine heat wave‚Äù, Geophys. Res. Lett., 43, doi:10.1002/2016GL071039.
 1. National Academies of Sciences, Engineering, and Medicine. 2015. Continuity of NASA Earth Observations from Space: A Value Framework. Washington, DC: The National Academies Press. https://doi.org/10.17226/21789. 
-1. Gentemann, C.L. and K.A. Hilburn, ìIn situ validation of sea surface temperatures from the GCOM-W1 AMSR2 RSS calibrated brightness temperaturesî, (2015) J. Geophys. Res. Oceans, 120, 3567-3585, doi: 10.1002/2014JC010574.
-1. Walker, N. D., R. R. Leben, C. T. Pilley, M. Shannon, D. C. Herndon, I.-F. Pun, I.-I. Lin, and C. L. Gentemann (2014), Slow translation speed causes rapid collapse of northeast Pacific Hurricane Kenneth over cold core eddy, Geophys. Res. Lett., 41, 7595ñ7601, doi:10.1002/2014GL061584
-1. Gentemann, C. L.,î Three way validation of MODIS and AMSR-E sea surface temperaturesî, (2014), J. Geophys. Res. Oceans, 119, 2583ñ2598, doi:10.1002/2013JC009716. 
-1. Woods, S., P.J. Minnett, C.L. Gentemann, D. Bogucki, ìInfluence of the oceanic cool skin layer on global air-sea CO2 flux estimatesî, (2014), Rem. Sens. of Enviro. 145, 15-24.
-1. Becker, E.A., D.G. Foley, K.A. Forney, J. Barlow, J.V. Redfern, C.L. Gentemann, ìForecasting cetacean abundance patterns to enhance management decisionsî (2012), Endangered Species Research, 16, 97-112, doi: 10.3354/esr00390.
-1. Monier, A., R. M. Welsh, C. L. Gentemann, G. Weinstock, E. Sodergren, E. V. Armbrust, J. A. Eisen and A. Z. Worden, ìPhytoplankton phosphate uptake and cross domain commonalities in viral-host gene exchangesî (2012), Environmental Microbiology, 14, 162-176, doi: 10.1111/j.1462-2920.2011.02576.x.
-1. Demir, E., S. Sudek, M. Cuvelier, C.L. Gentemann, J. Zehr, A.Z. Worden, ìGlobal distribution patterns of distinct clades of the phytosynthetic picoeukaryote Ostreococcusî (2011), ISME Journal, 5(7), 1095-1107, doi:  10.1038/ismej.2010.209.
-1. Gentemann, C. L., F. J. Wentz, M. Brewer, K. A. Hilburn and D. K. Smith. ìPassive microwave remote sensing of the ocean: an overviewî, in Oceanography from Space, revisited (2010), edited by V. Barale, J. Gower and L. Alberotanza, Springer, Heidelberg. 
+1. Gentemann, C.L. and K.A. Hilburn, ‚ÄúIn situ validation of sea surface temperatures from the GCOM-W1 AMSR2 RSS calibrated brightness temperatures‚Äù, (2015) J. Geophys. Res. Oceans, 120, 3567-3585, doi: 10.1002/2014JC010574.
+1. Walker, N. D., R. R. Leben, C. T. Pilley, M. Shannon, D. C. Herndon, I.-F. Pun, I.-I. Lin, and C. L. Gentemann (2014), Slow translation speed causes rapid collapse of northeast Pacific Hurricane Kenneth over cold core eddy, Geophys. Res. Lett., 41, 7595‚Äì7601, doi:10.1002/2014GL061584
+1. Gentemann, C. L.,‚Äù Three way validation of MODIS and AMSR-E sea surface temperatures‚Äù, (2014), J. Geophys. Res. Oceans, 119, 2583‚Äì2598, doi:10.1002/2013JC009716. 
+1. Woods, S., P.J. Minnett, C.L. Gentemann, D. Bogucki, ‚ÄúInfluence of the oceanic cool skin layer on global air-sea CO2 flux estimates‚Äù, (2014), Rem. Sens. of Enviro. 145, 15-24.
+1. Becker, E.A., D.G. Foley, K.A. Forney, J. Barlow, J.V. Redfern, C.L. Gentemann, ‚ÄúForecasting cetacean abundance patterns to enhance management decisions‚Äù (2012), Endangered Species Research, 16, 97-112, doi: 10.3354/esr00390.
+1. Monier, A., R. M. Welsh, C. L. Gentemann, G. Weinstock, E. Sodergren, E. V. Armbrust, J. A. Eisen and A. Z. Worden, ‚ÄúPhytoplankton phosphate uptake and cross domain commonalities in viral-host gene exchanges‚Äù (2012), Environmental Microbiology, 14, 162-176, doi: 10.1111/j.1462-2920.2011.02576.x.
+1. Demir, E., S. Sudek, M. Cuvelier, C.L. Gentemann, J. Zehr, A.Z. Worden, ‚ÄúGlobal distribution patterns of distinct clades of the phytosynthetic picoeukaryote Ostreococcus‚Äù (2011), ISME Journal, 5(7), 1095-1107, doi:  10.1038/ismej.2010.209.
+1. Gentemann, C. L., F. J. Wentz, M. Brewer, K. A. Hilburn and D. K. Smith. ‚ÄúPassive microwave remote sensing of the ocean: an overview‚Äù, in Oceanography from Space, revisited (2010), edited by V. Barale, J. Gower and L. Alberotanza, Springer, Heidelberg. 
 1. Gentemann, C.L., T. Meissner, and F. J. Wentz, "Accuracy of satellite sea surface temperatures at 7 and 11 GHz" (2010), Trans. Geosci. Rem. Sens., 48(3), 1009-1018, doi: 10.1109/TGRS.20092030322.
-1. Reynolds, R.W., C.L. Gentemann,G.K. Corlett, ìEvaluation of AATSR and TMI satellite SST dataî (2010), J. Clim, 21(1), DOI: 10.1175/2009JCLI3252.1.
-1. Donlon, C. J., K. S. Casey, I. S. Robinson, C. L. Gentemann, R. W. Reynolds, I. Barton, O. Arino, J. Stark, N. Rayner, P. LeBorgne, D. Poulter, J. Vazquez, H. Beggs, D. Llewellyn Jones, P. Minnett, ìThe GODAE High Resolution Sea Surface Temperature Pilot Project (GHRSST-PP)î (2009), Oceanography, 22(3), 34-45.
-Donlon, C.J., K.S. Casey, C.L. Gentemann, et al., ìSuccesses and Challenges for the Modern Sea Surface Temperature Observing System" (2009), OceanObs 09 community white paper.
+1. Reynolds, R.W., C.L. Gentemann,G.K. Corlett, ‚ÄúEvaluation of AATSR and TMI satellite SST data‚Äù (2010), J. Clim, 21(1), DOI: 10.1175/2009JCLI3252.1.
+1. Donlon, C. J., K. S. Casey, I. S. Robinson, C. L. Gentemann, R. W. Reynolds, I. Barton, O. Arino, J. Stark, N. Rayner, P. LeBorgne, D. Poulter, J. Vazquez, H. Beggs, D. Llewellyn Jones, P. Minnett, ‚ÄúThe GODAE High Resolution Sea Surface Temperature Pilot Project (GHRSST-PP)‚Äù (2009), Oceanography, 22(3), 34-45.
+Donlon, C.J., K.S. Casey, C.L. Gentemann, et al., ‚ÄúSuccesses and Challenges for the Modern Sea Surface Temperature Observing System" (2009), OceanObs 09 community white paper.
 1. Worden, A. Z., et al. (2009), Green Evolution and Dynamic Adaptations Revealed by Genomes of the Marine Picoeukaryotes Micromonas, Science, 324(5924), 268, doi:10.1126/science.1167222.
-1. Gentemann, C.L., P.J. Minnett, and B. Ward, ìProfiles of Surface Heating (POSH): a new model of upper ocean diurnal warmingî (2009), J. Geophs. Res.,114, C07017, doi:10.1029/2008JC004825.
+1. Gentemann, C.L., P.J. Minnett, and B. Ward, ‚ÄúProfiles of Surface Heating (POSH): a new model of upper ocean diurnal warming‚Äù (2009), J. Geophs. Res.,114, C07017, doi:10.1029/2008JC004825.
 1. Gentemann, C.L., P.J. Minnett, J. Sienkiewicz, M. DeMaria, J. Cummings, Y. Jin, J.D. Doyle, L. Gramer, C.N. Barron, K. Casey, and C. Donlon, "The Multi-sensor Improved Sea Surface Temperature (MISST) project" (2009), Oceanography, 22(2), 76-87.
-1. Gentemann, C.L., P.J. Minnett, P. LeBorgne, and C.J. Merchant (2008), ìMulti-satellite measurement of large diurnal SST warming eventsî, Geophys. Res. Lett., 35, L22602, doi: 10.1029/2008GL035730.
-1. Kettle, H., C. J. Merchant, M. Filipiak, C. D. Jeffery and C. L. Gentemann (2008),  ìThe impact of diurnal variability in sea surface temperature on the Atlantic sea-air CO2 fluxî, Atmos. Chem. Phys. Discuss., 8, 15825-15853.
-1. Gentemann, C.L. and P.J. Minnett (2008), ìRadiometric measurements of ocean surface thermal variabilityî, J. Geophs. Res., 113, C08017, doi:10.1029/2007JC004540.
-1. Gentemann, C.L. (2007), ìDiurnal warming at the ocean surfaceî, Meteorology and Physical Oceanography, Miami, FL, University of Miami, Doctor of Philosophy: 163 pp.
+1. Gentemann, C.L., P.J. Minnett, P. LeBorgne, and C.J. Merchant (2008), ‚ÄúMulti-satellite measurement of large diurnal SST warming events‚Äù, Geophys. Res. Lett., 35, L22602, doi: 10.1029/2008GL035730.
+1. Kettle, H., C. J. Merchant, M. Filipiak, C. D. Jeffery and C. L. Gentemann (2008),  ‚ÄúThe impact of diurnal variability in sea surface temperature on the Atlantic sea-air CO2 flux‚Äù, Atmos. Chem. Phys. Discuss., 8, 15825-15853.
+1. Gentemann, C.L. and P.J. Minnett (2008), ‚ÄúRadiometric measurements of ocean surface thermal variability‚Äù, J. Geophs. Res., 113, C08017, doi:10.1029/2007JC004540.
+1. Gentemann, C.L. (2007), ‚ÄúDiurnal warming at the ocean surface‚Äù, Meteorology and Physical Oceanography, Miami, FL, University of Miami, Doctor of Philosophy: 163 pp.
 1. Donlon, C. J., et al. (2007), The Global Ocean Data Assimilation Experiment (GODAE) High Resolution Sea Surface Temperature Pilot Project (GHRSST-PP), Bulletin of the American Meteorological Society, 88(8), 1197-1213.
-1. Horv·th, ¡. and C. L. Gentemann (2007), Cloud-fraction-dependent bias in satellite liquid water path retrievals of shallow, non-precipitating marine clouds, Geophysical Research Letters, 34, doi:10.1029/2007GL030625.
+1. Horv√°th, √Å. and C. L. Gentemann (2007), Cloud-fraction-dependent bias in satellite liquid water path retrievals of shallow, non-precipitating marine clouds, Geophysical Research Letters, 34, doi:10.1029/2007GL030625.
 1. Dong, S., S. T. Gille, J. Sprintall and C. L. Gentemann (2006), Validation of the Advanced Microwave Scanning Radiometer for the Earth Observing System (AMSR-E) sea surface temperature in the Southern Ocean, Journal of Geophysical Research, 111, doi:10.1029/2005JC002934.
-1. Reynolds, R.W., H.M. Zhang, T.M. Smith, C.L. Gentemann, F.J. Wentz, ìImpacts of in situ and additional satellite data on the accuracy of a sea-surface temperature analysis for climateî, (2005), Intern. J. of Climatology, 25(7), 857-864.
-1. Gentemann, C.L, F.J. Wentz, C.M. Mears, and D.K. Smith (2004), ìIn-situ validation of TRMM microwave sea surface temperaturesî, J. Geophs. Res., 109, C04021.
+1. Reynolds, R.W., H.M. Zhang, T.M. Smith, C.L. Gentemann, F.J. Wentz, ‚ÄúImpacts of in situ and additional satellite data on the accuracy of a sea-surface temperature analysis for climate‚Äù, (2005), Intern. J. of Climatology, 25(7), 857-864.
+1. Gentemann, C.L, F.J. Wentz, C.M. Mears, and D.K. Smith (2004), ‚ÄúIn-situ validation of TRMM microwave sea surface temperatures‚Äù, J. Geophs. Res., 109, C04021.
 Donlon, C. J., L. Nykjaer and C. L. Gentemann (2004), Using sea surface temperature measurements from microwave and infrared satellite measurements, International Journal of Remote Sensing, 25(7-8), 1331-1336.
 1. Reynolds, R. W., C. L. Gentemann and F. J. Wentz (2004), Impact of TRMM SSTs on a climate-scale SST analysis, Journal of Climate, 17(8), 2938-2952.
-1. Gentemann, C.L, C.J. Donlon, A. Stuart-Menteth, F.J. Wentz (2003), ìDiurnal signals in satellite sea surface temperature measurementsî, Geophysical Research Letters, 30(3), 1140-1143.
+1. Gentemann, C.L, C.J. Donlon, A. Stuart-Menteth, F.J. Wentz (2003), ‚ÄúDiurnal signals in satellite sea surface temperature measurements‚Äù, Geophysical Research Letters, 30(3), 1140-1143.
 Stammer, D., F. J. Wentz and C. L. Gentemann (2003), Validation of microwave sea surface temperature measurements for climate purposes, Journal of Climate, 16(1), 73-87.
 1. Donlon, C. J., P. J. Minnett, C. L. Gentemann, T. J. Nightingale, I. J. Barton, B. Ward and M. J. Murray (2002), Towards improved validation of satellite sea surface skin temperature measurements for climate research, Journal of Climate, 15(4), 353-369.
 1. Chelton, D. B., S. K. Esbensen, M. G. Schlax, N. Thum, M. H. Freilich, F. J. Wentz, C. L. Gentemann, M. J. McPhaden and P. S. Schopf (2001), Observations of coupling between surface wind stress and sea surface temperature in the eastern tropical Pacific, Journal of Climate, 14(7), 1479-1498.
-1. Halpern, D., V. Zlotnicki, P. M. Woicheshyn, O. B. Brown, G. C. Feldman, M. H. Freilich, F. J. Wentz, and C. Gentemann. 2000. ìAn atlas of monthly mean distributions of SSMI surface wind speed, AVHRR sea surface temperature, TMI sea surface temperature, AMI surface wind velocity, SeaWIFS chlorophyll-a, and TOPEX/POSEIDON sea surface topography during 1998î. Jet Propulsion Laboratory Publication 00-08, 102 p. National Aeronautics and Space Administration, Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA 91109.
+1. Halpern, D., V. Zlotnicki, P. M. Woicheshyn, O. B. Brown, G. C. Feldman, M. H. Freilich, F. J. Wentz, and C. Gentemann. 2000. ‚ÄúAn atlas of monthly mean distributions of SSMI surface wind speed, AVHRR sea surface temperature, TMI sea surface temperature, AMI surface wind velocity, SeaWIFS chlorophyll-a, and TOPEX/POSEIDON sea surface topography during 1998‚Äù. Jet Propulsion Laboratory Publication 00-08, 102 p. National Aeronautics and Space Administration, Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA 91109.
 1. Chelton, D. B., F. J. Wentz, C. L. Gentemann, R. A. D. Szoeke and M. G. Schlax (2000), Satellite microwave SST observations of transequatorial tropical instability waves, Geophysical Research Letters, 27(9), 1239-1242.
 1. Donlon, C. J., C. L. Gentemann and F. J. Wentz (2001), Measuring surface temperature with microwave sensors, Backscatter, 12, 37-39.
 1. Wentz, F. J., P. D. Ashcroft and C. L. Gentemann (2001), Post-launch calibration of the TMI microwave radiometer, IEEE Transactions on Geoscience and Remote Sensing, 39(2), 415-422.
 1. Wentz, F. J., C. L. Gentemann, D. K. Smith and D. B. Chelton (2000), Satellite measurements of sea surface temperature through clouds, Science, 288(5467), 847-850.
 
 ## Testimony:
-- House Subcommittee on Space and Aeronautics, ìDiscovery on the Frontiers of Space: Exploring NASAís Science Missionî.  11 June 2019. https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission
+- House Subcommittee on Space and Aeronautics, ‚ÄúDiscovery on the Frontiers of Space: Exploring NASA‚Äôs Science Mission‚Äù.  11 June 2019. https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission
 
 ## Images:
 - Cover image August 2020 BAMS
@@ -130,35 +129,35 @@ Stammer, D., F. J. Wentz and C. L. Gentemann (2003), Validation of microwave sea
 
 ## Organization/participation in hackathons/demos:
 - 2019 OceanHackWeek, website
-- 2019 PICES ìî website
-- 2019 OceanObs, ìPython for Oceanographyî website
-- 2020 AGU Ocean Sciences, ìPangeo Tutorialî website
+- 2019 PICES ‚Äú‚Äù website
+- 2019 OceanObs, ‚ÄúPython for Oceanography‚Äù website
+- 2020 AGU Ocean Sciences, ‚ÄúPangeo Tutorial‚Äù website
 - 2020 OceanHackWeek, website
 
 ## Partial list of invited talks/panels:
-- 2020 AGU Fall meeting invited talk: Session:†Atmospheric and Oceanic Processes Governing the Trade-wind Regions, ìEmerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMICî.
-- 2020 ESIP Summer Meeting, plenary speaker, ìEmpowering Transformational Scienceî.  
-2020 The Consortium for Ocean Leadershipís Workshop to Support Implementation of NOAAís UxS Strategy, invited speaker and panelist on ìBuilding a community of practiceî panel, 
-- 2020 NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, ìTowards open science: accelerating and expanding NASAís scientific impactî. 
-- 2020 COVID-19: Identifying Unique Opportunities for Earth System Scienceî Keck Institute for Space Studies virtual workshop, invited speaker and participant. ìCloud enabled scienceî.
-- 2020 AWS Public Sector Summit, The Cube, ìCloud enabled scienceî invited interview. 
-- 2020 Coiled Blog invited interview, ìDask in Action with Massive Satellite Datasetsî. 
-- 2020 Coiled Blog invited interview, ìAccelerating Science with Daskî. 
-- SFSU 2018, ìThe changing landscape of scienceî
-- IGARSS 2015, ìRFI in Microwave Remote Sensingî
-- AGU 2011 Fall Meeting, ìAQUA AMSR-E Sea Surface Temperatureî
+- 2020 AGU Fall meeting invited talk: Session:¬†Atmospheric and Oceanic Processes Governing the Trade-wind Regions, ‚ÄúEmerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC‚Äù.
+- 2020 ESIP Summer Meeting, plenary speaker, ‚ÄúEmpowering Transformational Science‚Äù.  
+2020 The Consortium for Ocean Leadership‚Äôs Workshop to Support Implementation of NOAA‚Äôs UxS Strategy, invited speaker and panelist on ‚ÄúBuilding a community of practice‚Äù panel, 
+- 2020 NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, ‚ÄúTowards open science: accelerating and expanding NASA‚Äôs scientific impact‚Äù. 
+- 2020 COVID-19: Identifying Unique Opportunities for Earth System Science‚Äù Keck Institute for Space Studies virtual workshop, invited speaker and participant. ‚ÄúCloud enabled science‚Äù.
+- 2020 AWS Public Sector Summit, The Cube, ‚ÄúCloud enabled science‚Äù invited interview. 
+- 2020 Coiled Blog invited interview, ‚ÄúDask in Action with Massive Satellite Datasets‚Äù. 
+- 2020 Coiled Blog invited interview, ‚ÄúAccelerating Science with Dask‚Äù. 
+- SFSU 2018, ‚ÄúThe changing landscape of science‚Äù
+- IGARSS 2015, ‚ÄúRFI in Microwave Remote Sensing‚Äù
+- AGU 2011 Fall Meeting, ‚ÄúAQUA AMSR-E Sea Surface Temperature‚Äù
 Oceans from Space 2010, "A review of Passive Microwave Retrievals from Space"
 - Yale 2008 Department of Geology & Geophysics Colloquium, "Satellite sea surface temperatures"
-- AGU 2006 Joint Assembly, ìOptimally interpolated infrared and microwave sea surface temperatures: The Multi-sensor Improved SST (MISST) Projectî
-- IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, ìMulti-satellite, multi-sensor data fusion: global daily 10 km SSTs from MODIS, AMSR-E, and TMIî  
-- IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, ìIn situ observations of diurnal warming in the skin layerî  
-- AMS 14th Conference on Satellite Meteorology, ìMulti-sensor Improved Sea Surface Temperatures (MISST) for GODAEî
-AGU Ocean Sciences, 2004, ìDiurnal warming in satellite sea-surface temperaturesî
-- JCOMM Workshop on Advances in Marine Climatology, 2003, ìDiurnal Warming and Climate SST recordsî
-CEOS Meeting, Ocean Sciences, 2003, ìAccurate microwave SST retrieval and microwave/infrared blendingî
-- GCOS Workshop on Advances in the Use of Historical Marine Climate Data, 2002, ìAdvances in Microwave Sea Surface Temperatureî and ìTowards Improved Validation of Satellite Sea Surface Skin Temperature Measurements for Climate Researchî
-- GODAE Science Team Meeting, 2001, ìMicrowave SST retrievals from TRMMî
-- IGARSS, 2001, ìSatellite Microwave SST: Accuracy, Comparisons to AVHRR and Reynolds SST, and Measurement of Diurnal Thermocline Variabilityî
+- AGU 2006 Joint Assembly, ‚ÄúOptimally interpolated infrared and microwave sea surface temperatures: The Multi-sensor Improved SST (MISST) Project‚Äù
+- IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, ‚ÄúMulti-satellite, multi-sensor data fusion: global daily 10 km SSTs from MODIS, AMSR-E, and TMI‚Äù  
+- IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, ‚ÄúIn situ observations of diurnal warming in the skin layer‚Äù  
+- AMS 14th Conference on Satellite Meteorology, ‚ÄúMulti-sensor Improved Sea Surface Temperatures (MISST) for GODAE‚Äù
+AGU Ocean Sciences, 2004, ‚ÄúDiurnal warming in satellite sea-surface temperatures‚Äù
+- JCOMM Workshop on Advances in Marine Climatology, 2003, ‚ÄúDiurnal Warming and Climate SST records‚Äù
+CEOS Meeting, Ocean Sciences, 2003, ‚ÄúAccurate microwave SST retrieval and microwave/infrared blending‚Äù
+- GCOS Workshop on Advances in the Use of Historical Marine Climate Data, 2002, ‚ÄúAdvances in Microwave Sea Surface Temperature‚Äù and ‚ÄúTowards Improved Validation of Satellite Sea Surface Skin Temperature Measurements for Climate Research‚Äù
+- GODAE Science Team Meeting, 2001, ‚ÄúMicrowave SST retrievals from TRMM‚Äù
+- IGARSS, 2001, ‚ÄúSatellite Microwave SST: Accuracy, Comparisons to AVHRR and Reynolds SST, and Measurement of Diurnal Thermocline Variability‚Äù
 
 ## Memberships:
 - American Geophysical Union (AGU)
@@ -176,7 +175,7 @@ CEOS Meeting, Ocean Sciences, 2003, ìAccurate microwave SST retrieval and microw
 - 2017: Using Saildrone autonomous in situ data for satellite validation and research into upper ocean physics and ecology.  Role: PI.
 - 2016: Quantification of Atmospheric Influence on Passive Microwave Observations. Role: external expert consultant.
 - 2015: Improved Spatial Resolution Sea Surface Temperature Fields from AMSR-E.  Role: Co-I.
-- 2015: Using satellite data to understand the impact of the Pacific SST anomaly on Californiaís drought.  Role: PI.
+- 2015: Using satellite data to understand the impact of the Pacific SST anomaly on California‚Äôs drought.  Role: PI.
 - 2014: Continuation of Inter-Calibrated Ocean Products from GCOM-W AMSR2.  Role: PI.
 - 2014: Analysis and Mitigation of Atmospheric CrossTalk in VIIRS SST Retrievals.  Role: Co-I.
 - 2013: Estimating the effective heat capacity of the ocean.  Role: PI.
