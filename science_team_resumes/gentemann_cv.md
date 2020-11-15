@@ -2,9 +2,11 @@
 # Dr. Chelle L. Gentemann (she/her)
 ## Senior Scientist, [Farallon Institute](https://faralloninstitute.org)
 ## Senior Scientist, [Earth & Space Research](https://esr.org) 
-[email](mailto:cgentemann@faralloninstitute.org)
-![image](https://github.com/Automattic/social-logos/tree/master/pdf/twitter.pdf)[twitter](https://twitter.com/chellegentemann)
-[github](https://github.com/cgentemann)
+![image](./../images/gmail.jpg)[]
+(mailto:cgentemann@faralloninstitute.org)
+![image](./../images/twitter.jpg)
+[](https://twitter.com/chellegentemann)
+![image](./../images/twitter.jpg)[](https://github.com/cgentemann)
 
 Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud computing, open source software development, air-sea interactions, and upper ocean physical processes.  For over 20 years she has worked on the calibration, radiative transfer modelling, algorithm development, validation, and operational near-real-time distribution of multiple satellite passive microwave sensors data. She also led 3 in situ field campaigns, 4 large academic, governmental, commercial partnerships, and has served on and chaired international and national science teams, working groups, and committees.    
 
@@ -23,7 +25,7 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 ## Science Teams, Working Groups, Organizing Committees:
 - National Academies of Sciences, Engineering, and Medicine
     - Standing Committee on Earth Science & Applications from Space (CESAS) (2012 – 2018; Co-Chair 2018 - 2020)  
-    - Committee on Best Practices for a Future Open Code Policy for NASA Space Studies (10/2017-8/2018; Co-Chair)
+    - Committee on Best Practices for a Future Open Code Policy for NASA Space Studies (10/2017-8/2018; Co-Chair) [report]()
     - Intelligence Science and Technology Experts Group (ISTEG) (2015 – present)
     - Committee on a Framework for Analyzing the Needs for Continuity of NASA-Sustained Remote Sensing Observations of the Earth from Space (10/2013 – 6/2015)
 - Pangeo Steering Council (2020 – present)
