@@ -16,7 +16,7 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 - 2/1998 – 10/2015: Remote Sensing Systems, Scientist – 2012, -Senior Principal Scientist -2015.  
 
 ## Education:
-- 2003 - 2007 Ph.D. Meteorology and Physical Oceanography, University of Miami
+- 2003 - 2007 Ph.D. Meteorology and Physical Oceanography, University of Miami (Advisor: Peter Minnett)
 - 1995 - 1997 M.S. Physical Oceanography, Scripps Institution of Oceanography, UCSD
 - 1991 - 1995 B.S. Massachusetts Institute of Technology
 
@@ -24,18 +24,18 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 - National Academies of Sciences, Engineering, and Medicine
     - Standing Committee on Earth Science & Applications from Space (CESAS) (2012 – 2018; Co-Chair 2018 - 2020)  
     - Committee on Best Practices for a Future Open Code Policy for NASA Space Studies (10/2017-8/2018; Co-Chair) [report](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_178892)
-    - Intelligence Science and Technology Experts Group (ISTEG) (2015 – present)
+    - Intelligence Science and Technology Experts Group [(ISTEG)](https://www.nationalacademies.org/our-work/intelligence-science-and-technology-experts-group) (2015 – present)
     - Committee on a Framework for Analyzing the Needs for Continuity of NASA-Sustained Remote Sensing Observations of the Earth from Space (10/2013 – 6/2015) [report](https://www.nap.edu/catalog/21789/continuity-of-nasa-earth-observations-from-space-a-value-framework)
 - [Pangeo](https://pangeo.io) Steering Council (2020 – present)
 - Associate Editor of AGU's Earth and Space Science (2020 – present)
 - US Clivar Working Group: Uncertainty Quantification (2020 – present)
 - [Group for high resolution SST (GHRSST) Science Team](https://www.ghrsst.org) and Advisory Council (2001 – present; Chair of Advisory Council 2016-2017)
-- NOAA Science Advisory Board (SAB): Data Access and Archiving Requirements Working Group [(DAARWG)]() (2013 – 2018; Chair 2018 - 2020)
-- AGU Falkenberg Award Committee (2014 – 2019; Chair 2016 – 2019)
+- NOAA Science Advisory Board (SAB): Data Access and Archiving Requirements Working Group [(DAARWG)](https://sab.noaa.gov/WorkingGroups/StandingWorkingGroups.aspx#1031912-data-archive-and-access-requirements-working-group-daarwg) (2013 – 2018; Chair 2018 - 2020)
+- [AGU Falkenberg Award](https://www.agu.org/Honor-and-Recognize/Honors/Union-Awards/Falkenberg-Award) Committee (2014 – 2019; Chair 2016 – 2019)
 - NASA PO.DAAC Early Cloud Adopters Program (2019 – present)
-- JAXA AMSR3 Science Team (2019 - present)
-- NASA GHRC User Working Group (2014-2015; Chair 2014-2015)
-- NASA PO.DAAC User Working Group (2006-2013; Chair 2011-2013)
+- JAXA [AMSR3](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2573914?SSO=1) Science Team (2019 - present)
+- NASA [GHRC User Working Group](https://ghrc.nsstc.nasa.gov/home/meetings/UWG) (2014-2015; Chair 2014-2015)
+- NASA [PO.DAAC User Working Group](https://podaac.jpl.nasa.gov/AboutPodaac#UWG) (2006-2013; Chair 2011-2013)
 - JAXA GCOM-W AMSR2 Science Team (2009 – 2016)
 - NASA Sea Surface Temperature Science Team (2010-present)
 - MIT Educational Council (1998-present)
@@ -60,7 +60,7 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 1. Hoover, B., M. García-Reyes, S. Batten, C. L. Gentemann, W. Sydeman, “Spatio-Temporal Persistence of Zooplankton Communities in the Eastern North Pacific,” submitted.
 1. Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. J. Hamman, N. Henderson, C. Lepore, T. A. McCaie, N.H. Robinson, R.P. Signell, “Cloud-Native Repositories for Big Scientific Data,” submitted IEEE.
 1. Gentemann, C.L.; et al. FluxSat: Measuring the Ocean–Atmosphere Turbulent Exchange of Heat and Moisture from Space. Remote Sensing 2020, 12, 1796, doi:10.3390/rs12111796.
-1. Gentemann, C.L., et al., “Saildrone: adaptively sampling the marine environment”, 2020, Bull. Amer. Meteor. Soc., 101, E744–E762, https://doi.org/10.1175/BAMS-D-19-0015.1.
+1. Gentemann, C.L., et al., [“Saildrone: adaptively sampling the marine environment”](https://doi.org/10.1175/BAMS-D-19-0015.1), 2020, Bull. Amer. Meteor. Soc., 101, E744–E762, https://doi.org/10.1175/BAMS-D-19-0015.1.
 1. Alerskans, E., J. L. Høyer, C. L. Gentemann, et al. (2020), Construction of a climate data record of sea surface temperature from passive microwave measurements, Remote Sensing of Environment, 236, 111485, doi:https://doi.org/10.1016/j.rse.2019.111485. 
 1. Scott, J. P., S. Crooke, I. Cetini?, C. E. Del Castillo, and C. L. Gentemann (2020), "Correcting non-photochemical quenching of Saildrone chlorophyll-a fluorescence for evaluation of satellite ocean color retrievals," Opt. Express 28(3), 4274-4285, https://doi.org/10.1364/OE.382029.
 1. Cronin M. F. and C. L. Gentemann, (2019) “Ocean Surface Holds the Key to Understanding Our Climate”, Scientia Earth and Environment. https://doi.org/10.33548/SCIENTIA435.
@@ -115,41 +115,41 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 1. Wentz, F. J., C. L. Gentemann, D. K. Smith and D. B. Chelton (2000), Satellite measurements of sea surface temperature through clouds, Science, 288(5467), 847-850.
 
 ## Testimony:
-- House Subcommittee on Space and Aeronautics, “Discovery on the Frontiers of Space: Exploring NASA’s Science Mission”.  11 June 2019. https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission
+- House Subcommittee on Space and Aeronautics, “Discovery on the Frontiers of Space: Exploring NASA’s Science Mission”.  11 June 2019. [Video](https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission)
 
 ## Images:
-- Cover image August 2020 BAMS
-- NRDC fact sheet October 2020, image of Blob
-- Cover image Jan 2017 GRL
-- Cover image 2010 IEEE Transactions on Geoscience and Remote Sensing
+- Cover [image](https://journals.ametsoc.org/bams/issue/101/8) August 2020 BAMS
+- NRDC fact sheet October 2020, [image of Blob](https://www.nrdc.org/sites/default/files/hot-water-climate-change-fisheries-fs.pdf)
+- Cover [image](https://agupubs.onlinelibrary.wiley.com/toc/19448007/2017/44/1) Jan 2017 GRL
+- Cover [image](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5416607) 2010 IEEE Transactions on Geoscience and Remote Sensing
 - Earle, S. and L. Glover (2008), Oceans: An illustrated atlas, National Geographic, 320p.
 - Cover image 2001 IEEE Transactions on Geoscience and Remote Sensing
 - King, M.D., C.L. Parkinson, K.C. Partington, R.G. Williams (2007), Our changing planet, the view from space, Cambridge University Press, 400p.
 
 ## Organization/participation in hackathons/demos:
-- 2019 OceanHackWeek, website
-- 2019 PICES “” website
-- 2019 OceanObs, “Python for Oceanography” website
-- 2020 AGU Ocean Sciences, “Pangeo Tutorial” website
-- 2020 OceanHackWeek, website
+- 2020 AGU Ocean Sciences, “Pangeo Tutorial” [website](https://tinyurl.com/pangeo-osm20)
+- 2020 OceanHackWeek, [website](https://oceanhackweek.github.io/)
+- 2019 OceanHackWeek, [website](https://oceanhackweek.github.io/)
+- 2019 PICES “Ecosystem tool” [website](https://github.com/python4oceanography/PICES-tools)
+- 2019 OceanObs, “Python for Oceanography” [website](https://github.com/python4oceanography/ocean_python_tutorial)
 
 ## Partial list of invited talks/panels:
 - 2020 AGU Fall meeting invited talk: Session: Atmospheric and Oceanic Processes Governing the Trade-wind Regions, “Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC”.
-- 2020 ESIP Summer Meeting, plenary speaker, “Empowering Transformational Science”.  
-2020 The Consortium for Ocean Leadership’s Workshop to Support Implementation of NOAA’s UxS Strategy, invited speaker and panelist on “Building a community of practice” panel, 
-- 2020 NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, “Towards open science: accelerating and expanding NASA’s scientific impact”. 
+- 2020 ESIP Summer Meeting, plenary speaker, [“Empowering Transformational Science”](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP).  
+- 2020 The Consortium for Ocean Leadership’s Workshop to Support Implementation of NOAA’s UxS Strategy, invited speaker and panelist on [“Building a community of practice”](https://oceanleadership.org/unmanned-systems-workshop/) panel.  [slides[(https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1) 
+- 2020 NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, [“Towards open science: accelerating and expanding NASA’s scientific impact”](https://www2.slideshare.net/ChelleGentemann/open-science-239057717?qid=8c85b964-08a8-4152-b0eb-1237657666f9&v=&b=&from_search=2). 
 - 2020 COVID-19: Identifying Unique Opportunities for Earth System Science” Keck Institute for Space Studies virtual workshop, invited speaker and participant. “Cloud enabled science”.
-- 2020 AWS Public Sector Summit, The Cube, “Cloud enabled science” invited interview. 
-- 2020 Coiled Blog invited interview, “Dask in Action with Massive Satellite Datasets”. 
-- 2020 Coiled Blog invited interview, “Accelerating Science with Dask”. 
-- SFSU 2018, “The changing landscape of science”
+- 2020 AWS Public Sector Summit, The Cube, [“Cloud enabled science”](https://video.cube365.net/c/927999) invited interview. 
+- 2020 Coiled Blog invited interview, [“Dask in Action with Massive Satellite Datasets”](https://coiled.io/blog/dask-in-action-gentemann/). 
+- 2020 Coiled Blog invited interview, [“Accelerating Science with Dask”](https://coiled.io/blog/accelerating-science-dask-gentemann/). 
+- SFSU 2018, [“The changing landscape of science”](https://www2.slideshare.net/ChelleGentemann/the-changing-landscape-of-science?qid=c07854f8-1037-4120-a4bc-9b392132bd23&v=&b=&from_search=4)
 - IGARSS 2015, “RFI in Microwave Remote Sensing”
 - AGU 2011 Fall Meeting, “AQUA AMSR-E Sea Surface Temperature”
 Oceans from Space 2010, "A review of Passive Microwave Retrievals from Space"
 - Yale 2008 Department of Geology & Geophysics Colloquium, "Satellite sea surface temperatures"
 - AGU 2006 Joint Assembly, “Optimally interpolated infrared and microwave sea surface temperatures: The Multi-sensor Improved SST (MISST) Project”
 - IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, “Multi-satellite, multi-sensor data fusion: global daily 10 km SSTs from MODIS, AMSR-E, and TMI”  
-- IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, “In situ observations of diurnal warming in the skin layer”  
+- IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, “In situ observations of diurnal warming in the skin layer” 
 - AMS 14th Conference on Satellite Meteorology, “Multi-sensor Improved Sea Surface Temperatures (MISST) for GODAE”
 AGU Ocean Sciences, 2004, “Diurnal warming in satellite sea-surface temperatures”
 - JCOMM Workshop on Advances in Marine Climatology, 2003, “Diurnal Warming and Climate SST records”
