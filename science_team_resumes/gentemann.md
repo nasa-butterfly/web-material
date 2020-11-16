@@ -42,8 +42,8 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 - NASA Satellite Ocean Atlas Team (1998-2001)
 
 ## Awards:
-- American Geophysical Union 2013 Charles S. Falkenberg Award.  The award is for a “scientist under 45 years of age who has contributed to the quality of life, economic opportunities, and stewardship of the planet through the use of Earth science information and to the public awareness of the importance of understanding our planet.”
-- National Oceanographic Partnership Program 2008 Excellence in Partnering Award.  C.Gentemann was the PI on this project.  The award is “presented annually to research teams that best demonstrate the partnerships objectives of NOPP, recognizing the project’s commitment to partnering, the success of the partnership effort, and the impact of the partnership on oceanography.” 
+- American Geophysical Union 2013 [Charles S. Falkenberg Award](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014EO020009).  The award is for a “scientist under 45 years of age who has contributed to the quality of life, economic opportunities, and stewardship of the planet through the use of Earth science information and to the public awareness of the importance of understanding our planet.”
+- National Oceanographic Partnership Program [2008 Excellence in Partnering Award](https://www.nopp.org/portfolio/excellence-in-partnering/misst/).  C.Gentemann was the PI on this project.  The award is “presented annually to research teams that best demonstrate the partnerships objectives of NOPP, recognizing the project’s commitment to partnering, the success of the partnership effort, and the impact of the partnership on oceanography.” 
 - NASA Group Achievement Award 2001 to the Satellite Ocean Atlas Team, for outstanding achievement in utilization of multiple observations from space for the study of the global oceans.  C. Gentemann was a member of the team.
 - AGU 2007 Joint Assembly, Acapulco, Mexico.  Outstanding student presentation award.
 - AGU 2006 Joint Assembly, Baltimore, MD.  Outstanding student paper award.
