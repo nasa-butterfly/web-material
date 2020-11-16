@@ -22,7 +22,7 @@ Dr. Gentemann focuses on open, inclusive, interdisciplinary science using cloud 
 
 ## Science Teams, Working Groups, Organizing Committees:
 - National Academies of Sciences, Engineering, and Medicine
-    - Standing Committee on Earth Science & Applications from Space (CESAS) (2012 – 2018; Co-Chair 2018 - 2020)  
+    - Standing Committee on Earth Science & Applications from Space [(CESAS)](https://www.nationalacademies.org/our-work/committee-on-earth-sciences-and-applications-from-space) (2012 – 2018; Co-Chair 2018 - 2020)  
     - Committee on Best Practices for a Future Open Code Policy for NASA Space Studies (10/2017-8/2018; Co-Chair) [report](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_178892)
     - Intelligence Science and Technology Experts Group [(ISTEG)](https://www.nationalacademies.org/our-work/intelligence-science-and-technology-experts-group) (2015 – present)
     - Committee on a Framework for Analyzing the Needs for Continuity of NASA-Sustained Remote Sensing Observations of the Earth from Space (10/2013 – 6/2015) [report](https://www.nap.edu/catalog/21789/continuity-of-nasa-earth-observations-from-space-a-value-framework)
