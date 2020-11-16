@@ -223,12 +223,14 @@ Purdue:
 - ATMS 230, Survey of Atmospheric Science (undergraduate)
 - ATMS 591C, Numerical Ocean Modeling (graduate)
 - ATMS 591, Small-Scale Processes (graduate)<br>
+
 FSU:
 - OCP 5551, Physics of the Air-Sea Boundary Layers
 - MET 6480A, Atmospheric Turbulence
 - MET 1010, Introduction to the Atmosphere
 - MET 4159, Boundary Layer Meteorology
 - MET 6480B, Satellite Oceanography <br>
+
 MIT/WHOI Joint Program:
 - 12.820 Turbulence in the Atmosphere and Oceans
 - 12.870 Air-Sea Interaction
