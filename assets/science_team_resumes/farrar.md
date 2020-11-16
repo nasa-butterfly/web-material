@@ -1,5 +1,5 @@
-J. Thomas Farrar | Curriculum Vitae Woods Hole Oceanographic Institution 
-Associate Scientist - Physical Oceanography Department 
+# J. Thomas Farrar | Curriculum Vitae Woods Hole Oceanographic Institution 
+## Associate Scientist - Physical Oceanography Department 
 � +1 (508) 524 0501 • � +1 (508) 289 2691 • � jfarrar@whoi.edu 
 � www2.whoi.edu/staff/jfarrar/ 
 Mail Stop #29, Clark 212A, Woods Hole, MA 02534 USA 
@@ -11,7 +11,8 @@ These interests are pursued using in situ observations, satellite observations, 
 ## Experience:
 - 2016 - present: Associate Scientist with tenure Woods Hole Oceanographic Institution, Physical Oceanography Department. 
 - 2012 - 2016: Associate Scientist without tenure Woods Hole Oceanographic Institution, Physical Oceanography Department. 
-- 2008 - 2012: Assistant Scientist Woods Hole Oceanographic Institution, Physical Oceanography Department. 2007-2008: Postdoctoral Investigator Woods Hole Oceanographic Institution, Physical Oceanography Department. 
+- 2008 - 2012: Assistant Scientist Woods Hole Oceanographic Institution, Physical Oceanography Department. 
+- 2007 - 2008: Postdoctoral Investigator Woods Hole Oceanographic Institution, Physical Oceanography Department. 
 - 2004 - 2007: Graduate Research Assistant Woods Hole Oceanographic Institution, Physical Oceanography Department. 
 - 2003 - 2004: Research Associate I Woods Hole Oceanographic Institution, Physical Oceanography Department. 
 - 2000 - 2003: Graduate Research Assistant Woods Hole Oceanographic Institution, Physical Oceanography Department. 
@@ -25,7 +26,9 @@ These interests are pursued using in situ observations, satellite observations, 
 
 ## Awards:
 - 2018 - Principal Investigator of the Sub-Mesoscale Ocean Dynamics Experiment (S-MODE), a $30M NASA Earth Venture Suborbital Mission with 21 co-investigators, remote sensing measurements from three aircraft, and three research cruises that will take place in 2020-2021. 
-- 2017 - American Meteorological Society Nicholas P. Fofonoff Award in recognition of research achievement in physical oceanography, for “insightful analysis of observations yielding a deeper understanding of tropical and upper ocean dynamics, and for generous collaboration and leadership in major field experiments” 2012: Editors’ Citation for Excellence in Refereeing, Journal of Geophysical Research-Oceans 2006: Outstanding Student Paper Award, AGU Ocean Sciences meeting 
+- 2017 - American Meteorological Society Nicholas P. Fofonoff Award in recognition of research achievement in physical oceanography, for “insightful analysis of observations yielding a deeper understanding of tropical and upper ocean dynamics, and for generous collaboration and leadership in major field experiments” 
+- 2012 - Editors’ Citation for Excellence in Refereeing, Journal of Geophysical Research-Oceans 
+- 2006 - Outstanding Student Paper Award, AGU Ocean Sciences meeting 
 - 2000 - 2001 - MIT Presidential Fellowship 
 - 2000 - Most Outstanding Physics Student, University of Oklahoma 
 - 1999 - Phi Beta Kappa 
@@ -108,11 +111,11 @@ Farrar: September 15, 2020 4/15
 1. G. Spiro Jaeger†, J. MacKinnon, A.J. Lucas, E. Shroyer, J. Nash, A. Tandon, J.T. Farrar, and A. Mahadevan. How spice is stirred in the Bay of Bengal (in press). Journal of Physical Oceanography, 2020. 
 1. J.T. Farrar and 31 coauthors. S-MODE: The Sub-Mesoscale Ocean Dynamics Experiment (accepted). Proceedings of the 2020 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2020. 
 
-Manuscripts in review
+## Manuscripts in review:
 1. J.T. Farrar, T.S. Durland, S.R. Jayne, and J.F. Price. Long-distance radiation of Rossby waves from the equatorial current system (in revision). Journal of Physical Oceanography, 2020. 
 1. T. S. Durland and J.T. Farrar. Model of 33-day barotropic Rossby waves in the North Pacific (in revision). Journal of Physical Oceanography, 2020. 
 
-Other publications
+## Other publications:
 1. W.S. Kessler, S. E. Wijffels, S. Cravatte, N. Smith, and Lead Authors. Second report of TPOS 2020. Technical report, GOOS-234, 2019. 
 1. M. Dever, M. Freilich, B. Hodges, J.T. Farrar, T. Lanagan, and A. Mahadevan. UCTD and EcoCTD observations from the CALYPSO Pilot Experiment (2018): Cruise and data report. Technical report, Woods Hole Oceanographic Institution, WHOI-2019-01, 2019. 
 1. J. Sprintall, M. Cronin, and J.T. Farrar. Upper ocean vertical structure. In J. K. Cochran, H. Boku niewicz, and P. Yager, editors, Encyclopedia of Ocean Sciences, Third Edition. Elsevier, 2019. 
@@ -132,7 +135,7 @@ Other publications
 1. L. Hutto, J.T. Farrar, and R.A. Weller. Cblast 2003 field work report. Technical report, Woods Hole Oceanographic Institution, 2005. 
 1. Farrar, J.T. The evolution of upper ocean thermal structure at 10◦N, 125◦W during 1997-1998. Master’s thesis, Massachusetts Institute of Technology, 2003. 
 
-Service: 
+## Service:
 - Co-chair, TPOS-2020 (Tropical Pacific Observing System) Task Team on Planetary Boundary Layers, 2015-present 
 - Co-chair, SPURS-2 (Salinity Processes in the Upper-ocean Regional Study) Science Steering Committee, 2015-present 
 - Co-chair, US CLIVAR Process Study and Model Improvement Panel, 2013-2014 ○␣ Organizer, SWOT Science Campaign Workshop, October 2018. 
@@ -155,81 +158,82 @@ Service:
 - Proposal reviewer for US National Science Foundation, UK Natural Environment Research Council, NASA 
 - Panel reviewer for National Science Foundation (2010) and National Oceanic and Atmospheric Administration (2010) 
 
-Educational Activities 
-Thesis committee member for: Ping Zhai (MIT-WHOI, S.M. awarded 2011), Ping Zhai (MIT-WHOI, Ph.D. awarded 2014), Sudip Majumder (U. Mass., Ph.D. awarded 2014), Neeti Neeti (Clark Univ., Ph.D. awarded 2012), Sophia Merrifield (MIT-WHOI, Ph.D. awarded 2016), Julius Busecke (Columbia University; Ph.D. Awarded 2017), Gualtiero Spiro Jaeger (MIT-WHOI, Ph.D. awarded 2019), Samuel Levang (MIT-WHOI, Ph.D. awarded 2019), Julie Jakoboski (MIT-WHOI, Ph.D. awarded 2019). 
-Ph.D. advisor for: Alec Bogdanoff (MIT-WHOI, Ph.D. awarded 2017; co-advised with Carol Anne Clayson). Postdoctoral advisor for: Shannon Davis (2015-2016), Viviane Menezes (2016-2017), Michael Schlundt (2017-2019), Uriel Zajaczkovski (2017-2019), Cesar Rocha (2018-present), Seth Zippel (2019-present). Teaching: MIT graduate class 12.805, Data Analysis in Physical Oceanography (2016, 2017, 2019; co-taught with Jake Gebbie). Guest lecturer for MIT graduate class 12.808 Introduction to Physical Oceanography on measurement of surface meteorology and air-sea fluxes at sea (2006-2014). 
-Member: MIT-WHOI Joint Committee for Physical Oceanography (a graduate program oversight committee concerned with curriculum, required courses, general exam structure, and student welfare), 2011-2015. 
-Member: WHOI Joint Program Admissions Committee, 2010-2013. 
-Summer advisor: WHOI Geophysical Fluid Dynamics Program Fellow Andrew Wells (2007, co-advised with Claudia Cenedese); visiting graduate student John Prytherch (2010, co-advised with Bob Weller); WHOI summer students (Erica Rosenblum, Sourajit Das, Weiguang Roger Wu); MIT-WHOI Joint Program student Deepak Cherian (2012). 
+## Educational Activities: 
+- Thesis committee member for: Ping Zhai (MIT-WHOI, S.M. awarded 2011), Ping Zhai (MIT-WHOI, Ph.D. awarded 2014), Sudip Majumder (U. Mass., Ph.D. awarded 2014), Neeti Neeti (Clark Univ., Ph.D. awarded 2012), Sophia Merrifield (MIT-WHOI, Ph.D. awarded 2016), Julius Busecke (Columbia University; Ph.D. Awarded 2017), Gualtiero Spiro Jaeger (MIT-WHOI, Ph.D. awarded 2019), Samuel Levang (MIT-WHOI, Ph.D. awarded 2019), Julie Jakoboski (MIT-WHOI, Ph.D. awarded 2019). 
+- Ph.D. advisor for: Alec Bogdanoff (MIT-WHOI, Ph.D. awarded 2017; co-advised with Carol Anne Clayson). Postdoctoral advisor for: Shannon Davis (2015-2016), Viviane Menezes (2016-2017), Michael Schlundt (2017-2019), Uriel Zajaczkovski (2017-2019), Cesar Rocha (2018-present), Seth Zippel (2019-present). 
+- Teaching: MIT graduate class 12.805, Data Analysis in Physical Oceanography (2016, 2017, 2019; co-taught with Jake Gebbie). Guest lecturer for MIT graduate class 12.808 Introduction to Physical Oceanography on measurement of surface meteorology and air-sea fluxes at sea (2006-2014). 
+- Member: MIT-WHOI Joint Committee for Physical Oceanography (a graduate program oversight committee concerned with curriculum, required courses, general exam structure, and student welfare), 2011-2015. 
+- Member: WHOI Joint Program Admissions Committee, 2010-2013. 
+- Summer advisor: WHOI Geophysical Fluid Dynamics Program Fellow Andrew Wells (2007, co-advised with Claudia Cenedese); visiting graduate student John Prytherch (2010, co-advised with Bob Weller); WHOI summer students (Erica Rosenblum, Sourajit Das, Weiguang Roger Wu); MIT-WHOI Joint Program student Deepak Cherian (2012). 
 
-Conference & Workshop Presentations (presenting author only) 
+## Conference & Workshop Presentations (presenting author only):
 1. Farrar, J.T., R. Weller, and J. Edson. Observations of the coupled air-sea boundary layers during the 2003 CBLAST-Low field program. Eos Trans. AGU, 84(52), Ocean Sci. Meet. Suppl., Abstract OS51G-02, 2004. (Invited) 
 1. Farrar, J.T. and Weller, R.A. The evolution of upper ocean thermal structure at 10◦N, 125◦W during 1997-98. Eos Trans. AGU, 84(52), Ocean Sci. Meet. Suppl., Abstract OS22E-12, 2004. Farrar, J.T., Plueddemann, A J, and Weller, R.A. Evaluation of a kinetic energy budget for inertial motions in the oceanic mixed layer: theory and observations. Eos Trans. AGU, 84(52), Ocean Sci. Meet. Suppl., Abstract OS22E-01, 2004. 
 1. Farrar, J.T., Weller, R.A., and Huang, K. Comparison of NWP model/reanalysis air-sea fluxes of heat and momentum to in situ observations at several sites in the tropical Pacific. 1st International CLIVAR Science Conference. Baltimore, MD. 2004. 
-Farrar, J.T., Weller, R.A., Zappa, C., and Jessup, A.T. Subsurface expressions of sea surface temperature variability under low winds, in 16th Symposium on Boundary Layers and Turbulence (AMS), Ref. P8.1, Portland, ME. 2004. 
-Farrar, J.T. and Weller, R.A. Air-sea heat fluxes and SST at two sites in the eastern tropical Pacific during 1997-98. Eos Trans. AGU, 86(52), Fall Meet. Suppl., Abstract A53B-06, 2005. 
-Farrar, J.T. and Weller, R.A. Intraseasonal variability near 10◦N in the eastern tropical Pacific Ocean. Eos Trans. AGU, 87(36), Ocean Sci. Meet. Suppl., Abstract OS35H-13, 2006. 
-Plueddemann, A.J. and Farrar, J.T. Observations and models of the energy flux from the wind to mixed layer inertial currents. Eos Trans. AGU, 87(36), Ocean Sci. Meet. Suppl., Abstract OS36A-28, 2006. Farrar, J.T., Zappa, C.J., Weller, R.A., and Jessup, A.T. Sea surface temperature signatures of oceanic internal waves in low winds, in 27th Conference on Hurricanes and Tropical Meteorology (AMS), Ref. P11.2, Monterey, CA. 2006. 
-Farrar, J.T. and Weller, R.A. Oceanic mesoscale variability and atmospheric convection on 10◦N in the eastern Pacific. NOAA Climate Prediction Program for the Americas PI Meeting, August 2006, Tucson, AZ. Farrar, J.T. and Weller, R.A. The relationship between oceanic mesoscale motions and atmospheric convection on 10◦N in the eastern tropical Pacific Ocean. EOS Trans. AGU, 87(52), Fall Meet. Suppl., Abstract OS51E-06. 2006. 
-Weller, R.A., Farrar, J.T., Zappa, C.J., and Jessup, A.T. Sea surface temperature signatures of oceanic internal waves in low winds. EOS Trans. AGU, 87(52), Fall Meet. Suppl., Abstract OS43D-07. 2006. Farrar, J.T. Observations of the dispersion characteristics and meridional sea-level structure of Pacific equatorial waves. Ocean Sciences Meeting Abstract Book, p. 121. 2008. 
-Farrar, J.T. Air-sea exchange in the Red Sea: the role of coastal processes. Gordon Research Conference on Coastal Ocean Circulation, New London, NH. 2009. (Invited) 
-Farrar, J.T. Barotropic Rossby waves seen radiating from tropical instability waves in the Pacific Ocean. NASA Ocean Surface Topography Science Team Meeting, Seattle, WA. 2009. 
-Farrar: September 15, 2020 11/15
-Farrar, J.T. Air-sea exchange and surface salinity. NASA Sea Surface Salinity Workshop, Pasadena, CA. 2009. (Invited) 
-Farrar, J.T. Barotropic Rossby waves seen radiating from tropical instability waves in the Pacific Ocean. Ocean Sciences Meeting, Portland, OR. 2010. (Invited) 
-Farrar, J.T., Zappa, C.J., Weller, R.A., Bigorre, S.P., Moffat, C.F., and Straneo, F. Upper-ocean turbulence beneath the stratus cloud deck of the Southeast Pacific. Meeting of the Americas, Foz do Iguassu, Brazil. 2010. (Invited) 
-Farrar, J.T. and Durland, T.S. New observations of Yanai waves and equatorial inertia-gravity waves in the Pacific Ocean. Fall AGU Meeting, San Francisco, CA. 2011. 
-Farrar, J.T. and Durland, T.S. A survey of waves on subseasonal time scales in the tropical Pacific Ocean. Ocean Sciences Meeting, Salt Lake City, UT. 2012. 
-Farrar, J.T., Chelton, D.B., Samelson, R. and Durland, T.S. How will oceanic internal waves appear in SWOT data? SWOT Science Definition Team Meeting, Pasadena, CA, 2013. 
-Farrar, J.T. Using AirSWOT to assess the expression of oceanic internal waves in SWOT data. AirSWOT meeting, Pasadena, CA, 2013. 
-Farrar, J.T., Plueddemann, A., Kessler, W., Rainville, L., Hodges, B., Riser, S., Edson, J., Eriksen, C., Lee, C., Schmitt, R., Fratantoni, D. A preliminary evaluation of upper-ocean heat and salt budgets during the SPURS campaign. Ocean Sciences Meeting, Honolulu, HI. 2014. 
-Farrar, J.T., Durland, T.S., and Jayne, S. Long-range Radiation of Barotropic Rossby Waves from the Equatorial Paciffic Ocean. NASA Ocean Surface Topography Science Team meeting, Oct 2015, Reston, VA. Farrar, J.T. and Durland, T.S. Time-space variability of weekly to monthly period equatorial waves in the Pacific Ocean. Fall AGU meeting Dec 2015, San Francisco. 
-Farrar, J.T., Durland, T.S., and Jayne, S. Long-range Radiation of Barotropic Rossby Waves from an Unstable Current. Ocean Science Meeting, Feb 2016, New Orleans. 
-Farrar, J.T., Chelton, D.B., and Samelson, R.M. The Prospects for Future Estimation of Mesoscale and Submesoscale Vorticity by Doppler Scatterometry. NASA Ocean Vector Wind Science Team Meeting, Sapporo, Japan, May 2016. 
-Farrar, J.T., Chao, Y., Andres, M., and Girton, J. In situ techniques for inferring SSH. NASA SWOT Cal/Val Workshop, June 2016, Pasadena, CA. 
-Farrar, J.T., Wang, J., Fu, L.-L., Savage, A., and Arbic, B. Challenges for in situ cal/val from time-space variability. NASA SWOT Cal/Val Workshop, June 2016, Pasadena, CA. 
-Farrar, J.T., O’Neill, L., Schneider, N. Seo, H., and Durland, T. Scale dependence of air-sea interaction: what are we missing?, NASA Ocean Vector Wind Science Team Meeting, La Jolla, CA, May 2017. Farrar, J.T., Weller, R., Mathew, S. Buckley, J., Venkatesan, R., Sree Lekha, Dipanjan Chaudhuri, Suresh Kumar, Praveen Kumar, Thangaprakash, V.P., Ravichandran, M., and Sengupta, D. Mooring measurements of air-sea interaction in northern Bay of Bengal. July 2016, Indian Institute of Tropical Meteorology, Pune, India, at “Discussion Meeting on Probable Collaborations on BoB Air-Sea interactions”. Farrar, J.T., Samelson, R.M., Savage, A., Arbic, B., and Chelton, D.B. Moored time series and frequency wavenumber spectra. NASA SWOT Science Team Meeting, July 2017, Toulouse, France. Farrar, J.T., Fu, L., Morrow, R., Drushka, K., Rainville, L., d’Ovidio, F., Chao, Y., and Girton, J. SWOT science oceanographic field campaigns. NASA SWOT Cal/Val Workshop, July 2017, Toulouse, France. Farrar, J.T., T. Durland, S. Jayne. Long-distance radiation of barotropic Rossby waves from tropical instability waves. NASA Ocean Surface Topography Science Team Meeting, October 2017, talk/plenary session. 
-Farrar, J.T., L. Fu, R. Morrow, F. d’Ovidio. A pair of notional SWOT science campaigns. SWOT Science Team Meeting, Montreal, Quebec, June 2018 (Invited). 
-Farrar, J.T., M. Cronin, Planetary Boundary Layer Task Team Status report. TPOS2020 Steering Committee Meeting, Seattle, WA, Oct 2017. 
-Farrar, J.T., Do internal waves affect our science goals in ways other than aliasing? Workshop for the Winds and Currents Mission, La Jolla, CA, April 2018. 
-Farrar, J.T., S-P. Xie, R. Samelson, T. Durland, R. Holmes. Tropical Pacific Circulation. Workshop for the Winds and Currents Mission, La Jolla, CA, April 2018. 
-Farrar, J.T., and 10 coauthors. Contrasting upper-ocean heat and salt balances and dynamics in SPURS 1 and 2. Ocean Sciences Meeting, Portland, OR, Feb 2018. 
-Farrar, J.T., Introduction to WHOI and Ocean Remote Sensing. Meeting of National Acadamies of Science, Engineering, and Medicine Committee on Radio Frequencies, Woods Hole, MA, October 2018 (Invited). Farrar, J.T., SWOT Science Campaigns: Notional campaigns and science goals. SWOT Science Campaign Workshop, Crystal City, VA, October 2018. 
-Farrar, J.T., S-MODE Earth Venture Suborbital Mission. SWOT Science Campaign Workshop, Crystal City, VA, October 2018. 
-Farrar, J.T. and coauthors, NASA Earth Venture Suborbital Investigation: Sub-Mesoscale Ocean Dynamics Experiment (S-MODE). SWOT Science Team Meeting, Bordeaux, France, June 2019. Rocha, C., Wu, W., and Farrar, J.T.. Directionality of internal waves. SWOT Science Team Meeting, Bordeaux, France, June 2019. 
-Farrar, J.T., Report on SWOT Oceanographic Campaign Workshop (October 2018). SWOT Science Team Meeting, Bordeaux, France, June 2019. 
-Lectures & Seminars 
-September 2006: Massachusetts Institute of Technology, Oceanography and Climate Sack Lunch Seminar. Oceanic mesoscale variability and atmospheric convection on 10◦N in the eastern Pacific. February 2007 (Invited): National Data Buoy Center. Buoys and wave-measurement requirements of the WHOI Upper Ocean Processes Group. 
-April 2007 (Invited): Lamont-Doherty Earth Observatory, Ocean and Climate Physics Seminar. Oceanic mesoscale variability and atmospheric convection on 10◦N in the eastern Pacific. 
-June 2007 (Invited): Geophysical Fluid Dynamics Program Staff Lecture, Woods Hole Oceanographic Institution. Modulation of the cool skin of the ocean by internal waves (with C.J. Zappa and C. Cenedese). July 2007 (Invited): Geophysical Fluid Dynamics Program, Mini-Symposium on “Ocean Bottom and Surface Boundary Layers”, Woods Hole Oceanographic Institution. The ocean’s diurnal boundary layer: observations and models. 
-October 2007: University of Oklahoma, Department of Meteorology, Seminar series in convection and numerical weather prediction. Oceanic mesoscale variability and atmospheric convection on 10◦N in the eastern Pacific. 
-October 2007 (Invited): University of Oklahoma, Department of Physics Colloquium Series. Planetary-scale equatorial waves in the Pacific Ocean and mathematical analogy to the quantum simple harmonic oscillator. November 2007: Woods Hole Oceanographic Institution, Physical Oceanography Seminar. Observations of equatorial waves in the Pacific Ocean: Dispersion characteristics, meridional sea-level structures, and a previously unobserved wave mode. 
-November 2007 (Invited): Oregon State University, Physical Oceanography Seminar. Observations of the dispersion characteristics and meridional sea-level structure of equatorial waves in the Pacific Ocean. November 2007: Oregon State University, Joint Physical Oceanography and Atmospheric Sciences Seminar. Oceanic mesoscale variability and atmospheric convection on 10◦N in the eastern Pacific. April 2008: Woods Hole Oceanographic Institution, Physical Oceanography Seminar. Equatorial and tropical instability waves: synthesis and new observations. 
-June 2008: Oregon State University, Physical Oceanography Seminar. Equatorial and tropical instability waves: synthesis and new observations. 
-September 2009: Texas A&M University, Department of Atmospheric Sciences Seminar. Oceanic mesoscale variability and atmospheric convection on 10◦N in the eastern Pacific. 
-September 2009 (Invited): Texas A&M University, Department of Oceanography Seminar. Observations of the dispersion relation and meridional structure of equatorial waves and tropical instability waves. October 2009 (Invited): Woods Hole Oceanographic Institution, Applied Ocean Physics and Engineering Coastal Ocean Fluid Dynamics Laboratory Seminar. Air-sea exchange in the Red Sea and the role of coastal processes. 
-December 2009 (Invited): University of Rhode Island, Graduate School of Oceanography Seminar. Ob servations of the dispersion relation and meridional structure of equatorial waves and tropical instability waves. 
-February 2011 (Invited): Rensselaer Polytechnic Institute, Mathematics Colloquium. Observations of planetary-scale ocean waves in the equatorial waveguide. 
-April 2011 (Invited): University of Massachusetts, Dartmouth, School for Marine Science and Technology. New observations of equatorial waves and tropical instability waves in the Pacific Ocean. June 2011: Woods Hole Oceanographic Institution, Physical Oceanography Seminar. On the spectrum of equatorial inertia-gravity waves and the significance of zero group velocity (co-delivered with Ted Durland). April 2012: Oregon State University, Physical Oceanography Seminar. Sea-level variability in the tropical Pacific: from inertia-gravity waves to Rossby waves. 
-April 2012: University of South Florida, Oceanography Seminar. New observations of equatorial waves and tropical instability waves. 
-May 2012: Woods Hole Oceanographic Institution, Physical Oceanography Seminar. Sea-level variability in the tropical Pacific: from inertia-gravity waves to Rossby waves. 
-April 2013 (Invited): Lamont-Doherty Earth Observatory, Ocean and Climate Physics Seminar. Sea-level variability in the tropical Pacific: from inertia-gravity waves to Rossby waves. 
-March 2016: Woods Hole Oceanographic Institution, Physical Oceanography Seminar. Long-range telecon nections in the ocean eddy field. 
-July 2016 (Invited): National Institute of Ocean Technology, Chennai, India. Mooring measurements of air-sea interaction at WHOI. 
-July 2016 (Invited lectures): International Training Course on Emerging trends in Ocean Observations and Ocean Data Analysis (58 students); Hyderabad, India, Indian National Centre for Ocean Information Services. Fourier analysis, spectral analysis, and filtering. 
-May 2017: Woods Hole Oceanographic Institution, Physical Oceanography Seminar. Surface velocity measurements from air and space (Doppler scatterometry). 
-Farrar: September 15, 2020 14/15
-October 2018: Cornell University, Atmospheric Sciences Seminar. Ocean-atmosphere interaction and ocean dynamics using measurements from water, air, and space. 
-February 2019 (Invited): New York University Courant Institute of Mathematical Sciences. Long-range Rossby wave radiation from an unstable ocean current. 
-March 2019: Cornell University, Atmospheric Sciences Seminar. Long-range Rossby wave radiation from an unstable ocean current. 
-Fieldwork Experience 
-2019: MISO-BoB cruise, RV Sally Ride, Chennai, Indai to Chennai, India (Bay of Bengal). Led WHOI drogued surface buoy effort. Chief Scientist: Emily Shroyer. 
-2017: IRENE cruise, BO SOCIB, Palma, Mallorca to Palma, Mallorca. Led WHOI drogued surface buoy effort and Underway CTD sampling. Chief Scientist: Simon Ruiz. 
-2016: SPURS-2 deployment cruise in-port work; Honolulu. Worked with group members to assemble surface mooring buoy, prepare instruments and equipment, and load ship. 
-2012: SPURS deployment cruise, RV Knorr; Woods Hole to Azores. Led WHOI mooring effort and Underway CTD sampling. Chief Scientist: Ray Schmitt. 
-2010: Chief Scientist for King Abdullah University for Science and Technology mooring recovery cruise, SETE3 (tug) and SETE30 (barge); Durrat, Saudi Arabia to Durrat, Saudi Arabia (Red Sea). 2009: Chief Scientist for King Abdullah University for Science and Technology mooring recovery/redeployment cruise, SETE3 (tug) and SETE30 (barge); Durrat, Saudi Arabia to Durrat, Saudi Arabia (Red Sea). 2008: Chief Scientist for King Abdullah University for Science and Technology mooring deployment cruise, RV Oceanus; Jeddah, Saudi Arabia to Jeddah, Saudi Arabia. 
-2008: Northern Tropical Atlantic Station mooring turnaround cruise, RV Oceanus; Woods Hole, MA to Barbados. Chief Scientist: Al Plueddemann. 
-2007: CLIMODE and wave-measurement test mooring recovery cruise, RV Oceanus (Co-PI with Robert Weller). Participation in planning and execution of a dragging operation to retrieve remnants of a mooring that had previously failed in the Gulf Stream. Chief scientist: Robert Weller. 
-2007: Chief Scientist for Wave-measurement Test Mooring deployment cruise, RV Oceanus; coastal waters south of Martha’s Vineyard, MA. 
-2003: Chief Scientist for 3 of 5 cruise legs of Coupled Boundary Layers and Air-Sea Transfer Experiment, Low Winds, FV Nobska (PI, Robert Weller). 
-2001: Salt Finger Tracer Release Experiment, RV Oceanus; Barbados to Barbados. SF6 tracer release and microstructure sampling, Chief Scientist: Raymond Schmitt. 
+1. Farrar, J.T., Weller, R.A., Zappa, C., and Jessup, A.T. Subsurface expressions of sea surface temperature variability under low winds, in 16th Symposium on Boundary Layers and Turbulence (AMS), Ref. P8.1, Portland, ME. 2004. 
+1. Farrar, J.T. and Weller, R.A. Air-sea heat fluxes and SST at two sites in the eastern tropical Pacific during 1997-98. Eos Trans. AGU, 86(52), Fall Meet. Suppl., Abstract A53B-06, 2005. 
+1. Farrar, J.T. and Weller, R.A. Intraseasonal variability near 10◦N in the eastern tropical Pacific Ocean. Eos Trans. AGU, 87(36), Ocean Sci. Meet. Suppl., Abstract OS35H-13, 2006. 
+1. Plueddemann, A.J. and Farrar, J.T. Observations and models of the energy flux from the wind to mixed layer inertial currents. Eos Trans. AGU, 87(36), Ocean Sci. Meet. Suppl., Abstract OS36A-28, 2006. Farrar, J.T., Zappa, C.J., Weller, R.A., and Jessup, A.T. Sea surface temperature signatures of oceanic internal waves in low winds, in 27th Conference on Hurricanes and Tropical Meteorology (AMS), Ref. P11.2, Monterey, CA. 2006. 
+1. Farrar, J.T. and Weller, R.A. Oceanic mesoscale variability and atmospheric convection on 10◦N in the eastern Pacific. NOAA Climate Prediction Program for the Americas PI Meeting, August 2006, Tucson, AZ. Farrar, J.T. and Weller, R.A. The relationship between oceanic mesoscale motions and atmospheric convection on 10◦N in the eastern tropical Pacific Ocean. EOS Trans. AGU, 87(52), Fall Meet. Suppl., Abstract OS51E-06. 2006. 
+1. Weller, R.A., Farrar, J.T., Zappa, C.J., and Jessup, A.T. Sea surface temperature signatures of oceanic internal waves in low winds. EOS Trans. AGU, 87(52), Fall Meet. Suppl., Abstract OS43D-07. 2006. Farrar, J.T. Observations of the dispersion characteristics and meridional sea-level structure of Pacific equatorial waves. Ocean Sciences Meeting Abstract Book, p. 121. 2008. 
+1. Farrar, J.T. Air-sea exchange in the Red Sea: the role of coastal processes. Gordon Research Conference on Coastal Ocean Circulation, New London, NH. 2009. (Invited) 
+1. Farrar, J.T. Barotropic Rossby waves seen radiating from tropical instability waves in the Pacific Ocean. NASA Ocean Surface Topography Science Team Meeting, Seattle, WA. 1. 2009.
+1. Farrar, J.T. Air-sea exchange and surface salinity. NASA Sea Surface Salinity Workshop, Pasadena, CA. 2009. (Invited) 
+1. Farrar, J.T. Barotropic Rossby waves seen radiating from tropical instability waves in the Pacific Ocean. Ocean Sciences Meeting, Portland, OR. 2010. (Invited) 
+1. Farrar, J.T., Zappa, C.J., Weller, R.A., Bigorre, S.P., Moffat, C.F., and Straneo, F. Upper-ocean turbulence beneath the stratus cloud deck of the Southeast Pacific. Meeting of the Americas, Foz do Iguassu, Brazil. 2010. (Invited) 
+1. Farrar, J.T. and Durland, T.S. New observations of Yanai waves and equatorial inertia-gravity waves in the Pacific Ocean. Fall AGU Meeting, San Francisco, CA. 2011. 
+1. Farrar, J.T. and Durland, T.S. A survey of waves on subseasonal time scales in the tropical Pacific Ocean. Ocean Sciences Meeting, Salt Lake City, UT. 2012. 
+1. Farrar, J.T., Chelton, D.B., Samelson, R. and Durland, T.S. How will oceanic internal waves appear in SWOT data? SWOT Science Definition Team Meeting, Pasadena, CA, 2013. 
+1. Farrar, J.T. Using AirSWOT to assess the expression of oceanic internal waves in SWOT data. AirSWOT meeting, Pasadena, CA, 2013. 
+1. Farrar, J.T., Plueddemann, A., Kessler, W., Rainville, L., Hodges, B., Riser, S., Edson, J., Eriksen, C., Lee, C., Schmitt, R., Fratantoni, D. A preliminary evaluation of upper-ocean heat and salt budgets during the SPURS campaign. Ocean Sciences Meeting, Honolulu, HI. 2014. 
+1. Farrar, J.T., Durland, T.S., and Jayne, S. Long-range Radiation of Barotropic Rossby Waves from the Equatorial Paciffic Ocean. NASA Ocean Surface Topography Science Team meeting, Oct 2015, Reston, VA. Farrar, J.T. and Durland, T.S. Time-space variability of weekly to monthly period equatorial waves in the Pacific Ocean. Fall AGU meeting Dec 2015, San Francisco. 
+1. Farrar, J.T., Durland, T.S., and Jayne, S. Long-range Radiation of Barotropic Rossby Waves from an Unstable Current. Ocean Science Meeting, Feb 2016, New Orleans. 
+1. Farrar, J.T., Chelton, D.B., and Samelson, R.M. The Prospects for Future Estimation of Mesoscale and Submesoscale Vorticity by Doppler Scatterometry. NASA Ocean Vector Wind Science Team Meeting, Sapporo, Japan, May 2016. 
+1. Farrar, J.T., Chao, Y., Andres, M., and Girton, J. In situ techniques for inferring SSH. NASA SWOT Cal/Val Workshop, June 2016, Pasadena, CA. 
+1. Farrar, J.T., Wang, J., Fu, L.-L., Savage, A., and Arbic, B. Challenges for in situ cal/val from time-space variability. NASA SWOT Cal/Val Workshop, June 2016, Pasadena, CA. 
+1. Farrar, J.T., O’Neill, L., Schneider, N. Seo, H., and Durland, T. Scale dependence of air-sea interaction: what are we missing?, NASA Ocean Vector Wind Science Team Meeting, La Jolla, CA, May 2017. Farrar, J.T., Weller, R., Mathew, S. Buckley, J., Venkatesan, R., Sree Lekha, Dipanjan Chaudhuri, Suresh Kumar, Praveen Kumar, Thangaprakash, V.P., Ravichandran, M., and Sengupta, D. Mooring measurements of air-sea interaction in northern Bay of Bengal. July 2016, Indian Institute of Tropical Meteorology, Pune, India, at “Discussion Meeting on Probable Collaborations on BoB Air-Sea interactions”. Farrar, J.T., Samelson, R.M., Savage, A., Arbic, B., and Chelton, D.B. Moored time series and frequency wavenumber spectra. NASA SWOT Science Team Meeting, July 2017, Toulouse, France. Farrar, J.T., Fu, L., Morrow, R., Drushka, K., Rainville, L., d’Ovidio, F., Chao, Y., and Girton, J. SWOT science oceanographic field campaigns. NASA SWOT Cal/Val Workshop, July 2017, Toulouse, France. Farrar, J.T., T. Durland, S. Jayne. Long-distance radiation of barotropic Rossby waves from tropical instability waves. NASA Ocean Surface Topography Science Team Meeting, October 2017, talk/plenary session. 
+1. Farrar, J.T., L. Fu, R. Morrow, F. d’Ovidio. A pair of notional SWOT science campaigns. SWOT Science Team Meeting, Montreal, Quebec, June 2018 (Invited). 
+1. Farrar, J.T., M. Cronin, Planetary Boundary Layer Task Team Status report. TPOS2020 Steering Committee Meeting, Seattle, WA, Oct 2017. 
+1. Farrar, J.T., Do internal waves affect our science goals in ways other than aliasing? Workshop for the Winds and Currents Mission, La Jolla, CA, April 2018. 
+1. Farrar, J.T., S-P. Xie, R. Samelson, T. Durland, R. Holmes. Tropical Pacific Circulation. Workshop for the Winds and Currents Mission, La Jolla, CA, April 2018. 
+1. Farrar, J.T., and 10 coauthors. Contrasting upper-ocean heat and salt balances and dynamics in SPURS 1 and 2. Ocean Sciences Meeting, Portland, OR, Feb 2018. 
+1. Farrar, J.T., Introduction to WHOI and Ocean Remote Sensing. Meeting of National Acadamies of Science, Engineering, and Medicine Committee on Radio Frequencies, Woods Hole, MA, October 2018 (Invited). Farrar, J.T., SWOT Science Campaigns: Notional campaigns and science goals. SWOT Science Campaign Workshop, Crystal City, VA, October 2018. 
+1. Farrar, J.T., S-MODE Earth Venture Suborbital Mission. SWOT Science Campaign Workshop, Crystal City, VA, October 2018. 
+1. Farrar, J.T. and coauthors, NASA Earth Venture Suborbital Investigation: Sub-Mesoscale Ocean Dynamics Experiment (S-MODE). SWOT Science Team Meeting, Bordeaux, France, June 2019. Rocha, C., Wu, W., and Farrar, J.T.. Directionality of internal waves. SWOT Science Team Meeting, Bordeaux, France, June 2019. 
+1. Farrar, J.T., Report on SWOT Oceanographic Campaign Workshop (October 2018). SWOT Science Team Meeting, Bordeaux, France, June 2019. 
+
+## Lectures & Seminars:
+- September 2006: Massachusetts Institute of Technology, Oceanography and Climate Sack Lunch Seminar. Oceanic mesoscale variability and atmospheric convection on 10◦N in the eastern Pacific. February 2007 (Invited): National Data Buoy Center. Buoys and wave-measurement requirements of the WHOI Upper Ocean Processes Group. 
+- April 2007 (Invited): Lamont-Doherty Earth Observatory, Ocean and Climate Physics Seminar. Oceanic mesoscale variability and atmospheric convection on 10◦N in the eastern Pacific. 
+- June 2007 (Invited): Geophysical Fluid Dynamics Program Staff Lecture, Woods Hole Oceanographic Institution. Modulation of the cool skin of the ocean by internal waves (with C.J. Zappa and C. Cenedese). July 2007 (Invited): Geophysical Fluid Dynamics Program, Mini-Symposium on “Ocean Bottom and Surface Boundary Layers”, Woods Hole Oceanographic Institution. The ocean’s diurnal boundary layer: observations and models. 
+- October 2007: University of Oklahoma, Department of Meteorology, Seminar series in convection and numerical weather prediction. Oceanic mesoscale variability and atmospheric convection on 10◦N in the eastern Pacific. 
+- October 2007 (Invited): University of Oklahoma, Department of Physics Colloquium Series. Planetary-scale equatorial waves in the Pacific Ocean and mathematical analogy to the quantum simple harmonic oscillator. November 2007: Woods Hole Oceanographic Institution, Physical Oceanography Seminar. Observations of equatorial waves in the Pacific Ocean: Dispersion characteristics, meridional sea-level structures, and a previously unobserved wave mode. 
+- November 2007 (Invited): Oregon State University, Physical Oceanography Seminar. Observations of the dispersion characteristics and meridional sea-level structure of equatorial waves in the Pacific Ocean. November 2007: Oregon State University, Joint Physical Oceanography and Atmospheric Sciences Seminar. Oceanic mesoscale variability and atmospheric convection on 10◦N in the eastern Pacific. April 2008: Woods Hole Oceanographic Institution, Physical Oceanography Seminar. Equatorial and tropical instability waves: synthesis and new observations. 
+- June 2008: Oregon State University, Physical Oceanography Seminar. Equatorial and tropical instability waves: synthesis and new observations. 
+- September 2009: Texas A&M University, Department of Atmospheric Sciences Seminar. Oceanic mesoscale variability and atmospheric convection on 10◦N in the eastern Pacific. 
+- September 2009 (Invited): Texas A&M University, Department of Oceanography Seminar. Observations of the dispersion relation and meridional structure of equatorial waves and tropical instability waves. October 2009 (Invited): Woods Hole Oceanographic Institution, Applied Ocean Physics and Engineering Coastal Ocean Fluid Dynamics Laboratory Seminar. Air-sea exchange in the Red Sea and the role of coastal processes. 
+- December 2009 (Invited): University of Rhode Island, Graduate School of Oceanography Seminar. Ob servations of the dispersion relation and meridional structure of equatorial waves and tropical instability waves. 
+- February 2011 (Invited): Rensselaer Polytechnic Institute, Mathematics Colloquium. Observations of planetary-scale ocean waves in the equatorial waveguide. 
+- April 2011 (Invited): University of Massachusetts, Dartmouth, School for Marine Science and Technology. New observations of equatorial waves and tropical instability waves in the Pacific Ocean. June 2011: Woods Hole Oceanographic Institution, Physical Oceanography Seminar. On the spectrum of equatorial inertia-gravity waves and the significance of zero group velocity (co-delivered with Ted Durland). April 2012: Oregon State University, Physical Oceanography Seminar. Sea-level variability in the tropical Pacific: from inertia-gravity waves to Rossby waves. 
+- April 2012: University of South Florida, Oceanography Seminar. New observations of equatorial waves and tropical instability waves. 
+- May 2012: Woods Hole Oceanographic Institution, Physical Oceanography Seminar. Sea-level variability in the tropical Pacific: from inertia-gravity waves to Rossby waves. 
+- April 2013 (Invited): Lamont-Doherty Earth Observatory, Ocean and Climate Physics Seminar. Sea-level variability in the tropical Pacific: from inertia-gravity waves to Rossby waves. 
+- March 2016: Woods Hole Oceanographic Institution, Physical Oceanography Seminar. Long-range telecon nections in the ocean eddy field. 
+- July 2016 (Invited): National Institute of Ocean Technology, Chennai, India. Mooring measurements of air-sea interaction at WHOI. 
+- July 2016 (Invited lectures): International Training Course on Emerging trends in Ocean Observations and Ocean Data Analysis (58 students); Hyderabad, India, Indian National Centre for Ocean Information Services. Fourier analysis, spectral analysis, and filtering. 
+- May 2017: Woods Hole Oceanographic Institution, Physical Oceanography Seminar. Surface velocity measurements from air and space (Doppler scatterometry). 
+- October 2018: Cornell University, Atmospheric Sciences Seminar. Ocean-atmosphere interaction and ocean dynamics using measurements from water, air, and space. 
+- February 2019 (Invited): New York University Courant Institute of Mathematical Sciences. Long-range Rossby wave radiation from an unstable ocean current. 
+- March 2019: Cornell University, Atmospheric Sciences Seminar. Long-range Rossby wave radiation from an unstable ocean current. 
+
+## Fieldwork Experience:
+- 2019 - MISO-BoB cruise, RV Sally Ride, Chennai, Indai to Chennai, India (Bay of Bengal). Led WHOI drogued surface buoy effort. Chief Scientist: Emily Shroyer. 
+- 2017 - IRENE cruise, BO SOCIB, Palma, Mallorca to Palma, Mallorca. Led WHOI drogued surface buoy effort and Underway CTD sampling. Chief Scientist: Simon Ruiz. 
+- 2016 - SPURS-2 deployment cruise in-port work; Honolulu. Worked with group members to assemble surface mooring buoy, prepare instruments and equipment, and load ship. 
+- 2012 - SPURS deployment cruise, RV Knorr; Woods Hole to Azores. Led WHOI mooring effort and Underway CTD sampling. Chief Scientist: Ray Schmitt. 
+- 2010 - Chief Scientist for King Abdullah University for Science and Technology mooring recovery cruise, SETE3 (tug) and SETE30 (barge); Durrat, Saudi Arabia to Durrat, Saudi Arabia (Red Sea). 2009: Chief Scientist for King Abdullah University for Science and Technology mooring recovery/redeployment cruise, SETE3 (tug) and SETE30 (barge); Durrat, Saudi Arabia to Durrat, Saudi Arabia (Red Sea). 2008: Chief Scientist for King Abdullah University for Science and Technology mooring deployment cruise, RV Oceanus; Jeddah, Saudi Arabia to Jeddah, Saudi Arabia. 
+- 2008 - Northern Tropical Atlantic Station mooring turnaround cruise, RV Oceanus; Woods Hole, MA to Barbados. Chief Scientist: Al Plueddemann. 
+- 2007 - CLIMODE and wave-measurement test mooring recovery cruise, RV Oceanus (Co-PI with Robert Weller). Participation in planning and execution of a dragging operation to retrieve remnants of a mooring that had previously failed in the Gulf Stream. Chief scientist: Robert Weller. 
+- 2007 - Chief Scientist for Wave-measurement Test Mooring deployment cruise, RV Oceanus; coastal waters south of Martha’s Vineyard, MA. 
+- 2003 - Chief Scientist for 3 of 5 cruise legs of Coupled Boundary Layers and Air-Sea Transfer Experiment, Low Winds, FV Nobska (PI, Robert Weller). 
+- 2001 - Salt Finger Tracer Release Experiment, RV Oceanus; Barbados to Barbados. SF6 tracer release and microstructure sampling, Chief Scientist: Raymond Schmitt. 
